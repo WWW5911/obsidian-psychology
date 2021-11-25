@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/精神分析/4. 意識.md",
+            "file": "性格/人本/2. Rogers.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/精神分析/4. 意識.md",
+            "file": "性格/人本/2. Rogers.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/精神分析/4. 意識.md",
+                "file": "性格/人本/2. Rogers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +98,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1d8cc145c56ae47a",
+  "active": "62e60f1bfe16d243",
   "lastOpenFiles": [
+    "性格/人本/2. Rogers.md",
     "性格/精神分析/4. 意識.md",
     "性格/overall.md",
     "性格/精神分析/8. 人格發展的性心理階段.md",
@@ -108,7 +109,6 @@
     "性格/精神分析/1. 概述.md",
     "性格/精神分析/2. Freud.md",
     "性格/精神分析/3. 本能.md",
-    "性格/精神分析/5. 人格結構.md",
-    "未命名.md"
+    "性格/精神分析/5. 人格結構.md"
   ]
 }
