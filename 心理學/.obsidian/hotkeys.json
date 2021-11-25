@@ -16,5 +16,13 @@
       ],
       "key": "F12"
     }
+  ],
+  "markdown-importer:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }
