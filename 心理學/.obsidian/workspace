@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/分析心理學/3. 人格的三個層次.md",
+            "file": "性格/分析心理學/4. 原型.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/分析心理學/3. 人格的三個層次.md",
+            "file": "性格/分析心理學/4. 原型.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/分析心理學/3. 人格的三個層次.md",
+                "file": "性格/分析心理學/4. 原型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "62e60f1bfe16d243",
   "lastOpenFiles": [
+    "性格/分析心理學/4. 原型.md",
     "性格/分析心理學/3. 人格的三個層次.md",
     "性格/分析心理學/2. 心理要素的對比性.md",
     "性格/分析心理學/1. Jung.md",
@@ -108,7 +109,6 @@
     "性格/個人心理學/1. 概述.md",
     "性格/精神分析/7. 防衛機制.md",
     "性格/精神分析/6. 焦慮.md",
-    "性格/精神分析/5. 人格結構.md",
-    "性格/精神分析/4. 意識.md"
+    "性格/精神分析/5. 人格結構.md"
   ]
 }
