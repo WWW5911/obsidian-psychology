@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/Unipolar Depressive Disorders.md",
+            "file": "變態/Mood disorder/Persistent Depressive Disorder.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/Unipolar Depressive Disorders.md",
+            "file": "變態/Mood disorder/Persistent Depressive Disorder.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/Mood disorder/Unipolar Depressive Disorders.md",
+                "file": "變態/Mood disorder/Persistent Depressive Disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +106,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "62e60f1bfe16d243",
+  "active": "1d8cc145c56ae47a",
   "lastOpenFiles": [
-    "變態/Mood disorder/Unipolar Depressive Disorders.md",
+    "變態/Mood disorder/Persistent Depressive Disorder.md",
+    "變態/Mood disorder/Major Depressive Disorder.md",
     "變態/專有名詞.md",
     "變態/Mood disorder/0. Overview.md",
     "性格/精神分析/2. Freud.md",
@@ -116,7 +117,6 @@
     "性格/精神分析/8. 人格發展的性心理階段.md",
     "性格/分析心理學/5. 心理功能.md",
     "性格/分析心理學/4. 原型.md",
-    "性格/分析心理學/1. Jung.md",
-    "性格/分析心理學/2. 心理要素的對比性.md"
+    "性格/分析心理學/1. Jung.md"
   ]
 }
