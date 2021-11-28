@@ -1,8 +1,8 @@
 ---
-aliases: [PDD]
+aliases: [PDD, Dystymia]
 ---
 
-#### Persistent Depressive Disorder (PDD)
+#### Persistent Depressive Disorder (PDD, Dystymia)
 -  ==必要條件==：兩年以上的抑鬱情緒
 	- 如果是小孩與青少年則是一年
 - 加上以下至少兩個症狀：
