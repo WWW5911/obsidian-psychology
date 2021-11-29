@@ -1,5 +1,5 @@
 ---
-aliases: [MDD]
+aliases: [MDD, Major Depressive]
 ---
 
 #### Major Depressive Disorder (MDD)

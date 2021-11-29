@@ -5,12 +5,15 @@ aliases: [mania, hypomania]
 ### Mania
 - State of intense elation, irritability, or activation
 	- 強烈的得意、易怒或激動的狀態
-	- 症狀持續至少一周，需要住院或精神治療
+	- 症狀==持續至少一周==，需要住院或「具有精神疾患」
 	- 症狀會導致嚴重的痛苦或功能障礙 _functional impairment_
 	- 有時候會包括妄想、幻聽
 ### Hypomania
+- 症狀==持續至少四天==
 - 與mania有相同症狀，但是並不強烈 (intense)
+	- 不具有精神疾患
 - 沒有涉及重大的損害 (impairment)
+	- 她人可以明顯看出功能上的改變 (changes in functioning)
 
 #### 具體診斷如下：
 - 情緒明顯高漲 _elevated _或易怒 _irritable _
