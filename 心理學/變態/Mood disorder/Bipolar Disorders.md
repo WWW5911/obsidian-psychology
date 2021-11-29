@@ -17,8 +17,9 @@ aliases: [Bipolar I, Bipolar II, Cyclothymia]
 		- 不會大於兩個月沒有症狀
 	- 多次出現hypomanic與depressive的症狀
 		- 沒有符合hypomania或major depressive的診斷
-		- 
-	
+		- 症狀會導致嚴重的痛苦或障礙
+	- 自殺率很高
+	![情緒隨時間變化的圖 | 650](https://i.imgur.com/7mJFs9P.png)
 
 大部分 (66% ~ 75%) 有Bipolar Disorders的人，也會經歷到depression
 - 在Bipolar II的診斷中==一定要有==，Bipolar I的話則不一定要有
