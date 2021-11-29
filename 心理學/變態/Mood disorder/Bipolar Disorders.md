@@ -8,12 +8,17 @@ aliases: [Bipolar I, Bipolar II, Cyclothymia]
 - ##### Bipolar I
 	-At least one episode of [[Mania|mania]]
 - ##### Bipolar II
-	- At least one [[Major Depressive Disorder|Major Depressive]] episode
+	- At least one [[Major Depressive Disorder|major depressive]] episode
 	- At least one episode of [[Mania|hypomania]]
 	- 沒有mania
 - ##### Cyclothymia
-	- 較溫和的
-	- 持續兩年以上
+	- 較溫和的慢性Bipolar Disorder
+	- 症狀持續兩年以上
+		- 不會大於兩個月沒有症狀
+	- 多次出現hypomanic與depressive的症狀
+		- 沒有符合hypomania或major depressive的診斷
+		- 
+	
 
 大部分 (66% ~ 75%) 有Bipolar Disorders的人，也會經歷到depression
 - 在Bipolar II的診斷中==一定要有==，Bipolar I的話則不一定要有
