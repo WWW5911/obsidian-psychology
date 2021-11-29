@@ -19,6 +19,8 @@ aliases: [Bipolar I, Bipolar II, Cyclothymia]
 		- 沒有符合hypomania或major depressive的診斷
 		- 症狀會導致嚴重的痛苦或障礙
 	- 自殺率很高
+		- 會在鬱期的時候回想起自己在躁期做的蠢事
+		- 有25%的人會試圖自殺 (做規劃、準備等)
 	![情緒隨時間變化的圖 | 650](https://i.imgur.com/7mJFs9P.png)
 
 大部分 (66% ~ 75%) 有Bipolar Disorders的人，也會經歷到depression
