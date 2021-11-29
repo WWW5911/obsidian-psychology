@@ -26,3 +26,12 @@ aliases: [Bipolar I, Bipolar II, Cyclothymia]
 大部分 (66% ~ 75%) 有Bipolar Disorders的人，也會經歷到depression
 - 在Bipolar II的診斷中==一定要有==，Bipolar I的話則不一定要有
 
+
+#### 相關研究
+- 盛行率比MDD低
+	- 1% in U S; 0.6% worldwide for Bipolar I 
+	- 0.4% – 2% for Bipolar II
+	- 4% for Cyclothymia
+- 平均來說好發在2x歲
+- 盛行率上沒有性別的差異
+	- 不過女性的預期
