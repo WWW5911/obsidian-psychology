@@ -7,10 +7,13 @@ aliases: [Bipolar I, Bipolar II, Cyclothymia]
 #### 根據症狀的程度與持續的時間，Bipolar Disorders分成三類：
 - ##### Bipolar I
 	-At least one episode of [[Mania|mania]]
-- Bipolar II
+- ##### Bipolar II
 	- At least one [[Major Depressive Disorder|Major Depressive]] episode
 	- At least one episode of [[Mania|hypomania]]
-- Cyclothymia
+	- 沒有mania
+- ##### Cyclothymia
+	- 較溫和的
+	- 持續兩年以上
 
 大部分 (66% ~ 75%) 有Bipolar Disorders的人，也會經歷到depression
 - 在Bipolar II的診斷中==一定要有==，Bipolar I的話則不一定要有
