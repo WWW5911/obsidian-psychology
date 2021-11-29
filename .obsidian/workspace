@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心理學/性格/人本/2. Rogers.md",
+            "file": "心理學/變態/Mood disorder/Bipolar Disorders.md",
             "mode": "source"
           }
-        },
-        "group": "0424c399ea954c15"
-      },
-      {
-        "id": "20d0160701f48e93",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "心理學/性格/人本/2. Rogers.md",
-            "mode": "source"
-          }
-        },
-        "group": "0424c399ea954c15"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cd6b15b496412581",
@@ -81,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/性格/人本/2. Rogers.md",
+                "file": "心理學/變態/Mood disorder/Bipolar Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -99,11 +87,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20d0160701f48e93",
+  "active": "641a4040d309d497",
   "lastOpenFiles": [
+    "心理學/變態/Mood disorder/Bipolar Disorders.md",
+    "心理學/變態/Mood disorder/1. Depression 的研究.md",
+    "心理學/變態/Mood disorder/0. Overview.md",
+    "心理學/變態/Mood disorder/Persistent Depressive Disorder.md",
+    "心理學/變態/Mood disorder/Major Depressive Disorder.md",
+    "心理學/未命名.md",
     "心理學/性格/人本/2. Rogers.md",
     "心理學/性格/精神分析/2. Freud.md",
-    "心理學/性格/精神分析/1. 概述.md",
-    "心理學/未命名.md"
+    "心理學/性格/精神分析/1. 概述.md"
   ]
 }
