@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/人本心理學/1. Rogers.md",
+            "file": "性格/個人心理學/2. Alder.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/人本心理學/1. Rogers.md",
+            "file": "性格/個人心理學/2. Alder.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/人本心理學/1. Rogers.md",
+                "file": "性格/個人心理學/2. Alder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,8 @@
   },
   "active": "62e60f1bfe16d243",
   "lastOpenFiles": [
+    "性格/個人心理學/2. Alder.md",
+    "性格/個人心理學/1. 概述.md",
     "性格/人本心理學/1. Rogers.md",
     "性格/人本心理學/4. 自我.md",
     "變態/Mood disorder/0. Overview.md",
@@ -115,8 +117,6 @@
     "變態/Mood disorder/Bipolar Disorders.md",
     "變態/Mood disorder/Persistent Depressive Disorder.md",
     "變態/Mood disorder/1. Depression 的研究.md",
-    "性格/overall.md",
-    "性格/精神分析/1. 概述.md",
-    "性格/精神分析/2. Freud.md"
+    "性格/overall.md"
   ]
 }
