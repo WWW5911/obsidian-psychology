@@ -10,22 +10,9 @@
           "type": "markdown",
           "state": {
             "file": "性格/人本心理學/4. 自我.md",
-            "mode": "source"
-          }
-        },
-        "group": "94e24bfd9be10600"
-      },
-      {
-        "id": "1d8cc145c56ae47a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "性格/人本心理學/4. 自我.md",
             "mode": "preview"
           }
-        },
-        "group": "94e24bfd9be10600"
+        }
       }
     ],
     "direction": "vertical"
@@ -111,12 +98,12 @@
     "性格/人本心理學/4. 自我.md",
     "性格/人本心理學/5. 正向關懷.md",
     "性格/人本心理學/6. 心理治療.md",
+    "性格/人本心理學/2. 自我實現.md",
+    "性格/人本心理學/1. Rogers.md",
+    "性格/精神分析/3. 本能.md",
+    "性格/精神分析/2. Freud.md",
     "性格/個人心理學/2. Alder.md",
     "性格/個人心理學/1. 概述.md",
-    "性格/人本心理學/1. Rogers.md",
-    "變態/Mood disorder/0. Overview.md",
-    "變態/Mood disorder/2. 病因.md",
-    "變態/Mood disorder/Bipolar Disorders.md",
-    "變態/Mood disorder/Persistent Depressive Disorder.md"
+    "變態/Mood disorder/0. Overview.md"
   ]
 }
