@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/人本心理學/4. 自我.md",
+            "file": "性格/個人心理學/5. 出生序.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/人本心理學/4. 自我.md",
+                "file": "性格/個人心理學/5. 出生序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "62e60f1bfe16d243",
   "lastOpenFiles": [
+    "性格/個人心理學/5. 出生序.md",
+    "性格/個人心理學/2. Alder.md",
+    "性格/個人心理學/1. 概述.md",
     "性格/人本心理學/4. 自我.md",
     "性格/人本心理學/5. 正向關懷.md",
     "性格/人本心理學/6. 心理治療.md",
     "性格/人本心理學/2. 自我實現.md",
     "性格/人本心理學/1. Rogers.md",
     "性格/精神分析/3. 本能.md",
-    "性格/精神分析/2. Freud.md",
-    "性格/個人心理學/2. Alder.md",
-    "性格/個人心理學/1. 概述.md",
-    "變態/Mood disorder/0. Overview.md"
+    "性格/精神分析/2. Freud.md"
   ]
 }
