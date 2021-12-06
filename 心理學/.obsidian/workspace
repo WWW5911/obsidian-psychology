@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/2. 病因學 (生理) 1.md",
+            "file": "變態/總整/Psychological disorder.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/2. 病因學 (生理) 1.md",
+            "file": "變態/總整/Psychological disorder.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/Mood disorder/2. 病因學 (生理) 1.md",
+                "file": "變態/總整/Psychological disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,8 @@
   },
   "active": "62e60f1bfe16d243",
   "lastOpenFiles": [
-    "變態/Mood disorder/2. 病因學 (生理) 1.md",
+    "變態/總整/Psychological disorder.md",
+    "變態/Mood disorder/2. 病因學 (心理).md",
     "變態/Mood disorder/2. 病因學 (生理).md",
     "變態/Mood disorder/1. Depression 的研究.md",
     "變態/Mood disorder/0. Overview.md",
@@ -116,7 +117,6 @@
     "變態/Mood disorder/Persistent Depressive Disorder.md",
     "性格/overall.md",
     "性格/精神分析/1. 概述.md",
-    "性格/精神分析/2. Freud.md",
-    "性格/分析心理學/6. 心理治療.md"
+    "性格/精神分析/2. Freud.md"
   ]
 }
