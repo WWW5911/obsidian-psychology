@@ -14,4 +14,8 @@
 
 負面思考風格充分介導了emotional maltreatment與NEMD，以及部分介島emotional maltreatment與HD
 
-具有早期的emotional maltreatment但不是身體或性虐待的個案，在平均2.5年的隨訪期中也
+具有早期的emotional maltreatment但不是身體或性虐待的個案，在平均2.5年的隨訪期中能預估出自殺想法與嘗試，這也是因思考風格
+
+這些研究可以做為本研究的後盾，顯示了emotional maltreatment會增加認知的風險，進而發展成depression
+
+Most prior studies investigated the association between retrospective reports of childhood emotional maltreatment and depression using retrospective or cross-sectional designs
