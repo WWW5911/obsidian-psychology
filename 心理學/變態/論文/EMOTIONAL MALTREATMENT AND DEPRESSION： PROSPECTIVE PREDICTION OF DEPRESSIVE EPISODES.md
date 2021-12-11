@@ -22,4 +22,4 @@ Most prior studies investigated the association between retrospective reports of
 
 唯一完全的前瞻性研究是關於孩童，針對4~5年級的孩童進行6個月以上的評估，探討emotional maltreatment對歸因風格的影響與憂鬱症狀
 
-
+Therefore, the primary goal of this study was to expand on prior research by examining whether current emotional maltreatment experiences in young adults are prospectively predictive of the development of new episodes of MD and minor depression (MiD), or HD.
