@@ -23,3 +23,12 @@ Most prior studies investigated the association between retrospective reports of
 唯一完全的前瞻性研究是關於孩童，針對4~5年級的孩童進行6個月以上的評估，探討emotional maltreatment對歸因風格的影響與憂鬱症狀
 
 Therefore, the primary goal of this study was to expand on prior research by examining whether current emotional maltreatment experiences in young adults are prospectively predictive of the development of new episodes of MD and minor depression (MiD), or HD.
+
+
+##### PEER AND AUTHORITY EMOTIONAL MALTREATMENT
+很少研究是把多種來源的emotional maltreatment分別來看
+大多都是只看父母虐待或同儕侵略行為或將全部混在一起來研究
+僅有Gibb發現同儕的emotional maltreatment對發展成cognitive vulnerability to depression CVD 有顯著作用比父母的還要影響更大，有了這些發現，本研究的第二個目標即為「來自不同來源的EM是否能預測抑鬱症的潛在發展」
+
+本研究基於過去的研究延伸出了兩條路
+1. 
