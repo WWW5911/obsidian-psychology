@@ -1,1 +1,2 @@
-目前憂鬱症的研究主要都是在生理與性虐待方面，他們認為emotional maltreatment 影響更大，可以通過調查emotional maltreatment的經歷，預測
+目前憂鬱症的研究主要都是在生理與性虐待方面，他們認為emotional maltreatment 影響更大，可以通過調查emotional maltreatment的經歷，預測MD、MiD 與發生在年輕人身上的HD的發展
+方法：對165人以
