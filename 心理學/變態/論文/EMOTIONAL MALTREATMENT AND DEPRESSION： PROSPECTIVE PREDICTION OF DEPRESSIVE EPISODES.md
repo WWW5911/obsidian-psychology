@@ -31,4 +31,7 @@ Therefore, the primary goal of this study was to expand on prior research by exa
 僅有Gibb發現同儕的emotional maltreatment對發展成cognitive vulnerability to depression CVD 有顯著作用比父母的還要影響更大，有了這些發現，本研究的第二個目標即為「來自不同來源的EM是否能預測抑鬱症的潛在發展」
 
 本研究基於過去的研究延伸出了兩條路
-1. 
+1. 目前的EM對於新憂鬱發作的前瞻性影響
+2. 分別評估了來自同儕與權威人物的EM和新憂鬱發作的發展之間的前瞻性關係
+他們預測如果有更大的EM將會使新憂鬱發作(MD MiD HD)來臨的時間變短、
+分別來自同儕與權威人物的EM將會使新憂鬱發作(MD MiD HD)來臨的時間變短 
