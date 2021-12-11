@@ -20,6 +20,6 @@
 
 Most prior studies investigated the association between retrospective reports of childhood emotional maltreatment and depression using retrospective or cross-sectional designs
 
-唯一完全的前瞻性研究是關於孩童，針對4~5年級的孩童進行6個月的評估，探討emotional maltreatment對歸因風格的影響與憂鬱症狀
+唯一完全的前瞻性研究是關於孩童，針對4~5年級的孩童進行6個月以上的評估，探討emotional maltreatment對歸因風格的影響與憂鬱症狀
 
 
