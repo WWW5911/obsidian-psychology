@@ -1,6 +1,10 @@
 目前憂鬱症的研究主要都是在生理與性虐待方面，他們認為emotional maltreatment 影響更大
 
 本研究旨在探討emotional maltreatment的經歷是否能預測青年的MD、MiD 與HD的發展
-方法：對來自Cognitive Vulnerability to Depression Project的165人追蹤2.5年、並每6週進行一次評估生活經歷與診斷面談
+方法：對來自Cognitive Vulnerability to Depression Project的165人追蹤2.5年、並每6週進行一次評估生活經歷與診斷面談來評估目前的emotional maltreatment狀況與是否有新的depress發作
 
-結果：
+結果：更大的emotional maltreatment會使MD MiD HD的發作時間更短
+同儕與權威實施的emotional maltreatment會使hopelessness depression發作時間更快
+
+結論：emotional maltreatment可以預測depression，特別是hopelessness depression
+確定了在成人emotional maltreatment的預防、治療的重要性
