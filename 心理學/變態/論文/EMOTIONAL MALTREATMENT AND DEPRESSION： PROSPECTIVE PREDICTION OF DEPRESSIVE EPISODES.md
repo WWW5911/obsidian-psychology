@@ -40,4 +40,12 @@ Therefore, the primary goal of this study was to expand on prior research by exa
 #### 方法
 ##### 參與者
 - 來自CVD計畫的人
-- 是大一仔，被判定是最正向與最負向的
+- 是大一仔，在Cognitive Style Questionnaire被判定是最正向與最負向的
+- 或是 
+.....
+table 1
+
+
+在CVD DAS被擴產程包含成就、人際關係領域的dysfunction belief
+- 有良好的表現 具信度與效度
+- 可以有效預測憂鬱的發生
