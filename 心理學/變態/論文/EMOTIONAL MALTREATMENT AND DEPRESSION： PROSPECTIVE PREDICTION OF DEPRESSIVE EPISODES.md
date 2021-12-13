@@ -39,3 +39,5 @@ Therefore, the primary goal of this study was to expand on prior research by exa
 
 #### 方法
 ##### 參與者
+- 來自CVD計畫的人
+- 是大一仔，被判定是最正向與最負向的
