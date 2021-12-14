@@ -50,4 +50,4 @@ table 1
 - 有良好的表現 具信度與效度
 - 可以有效預測憂鬱的發生
 
-另一個測驗是 BDI beck depression inve
+另一個測驗是 BDI beck depression inventory
