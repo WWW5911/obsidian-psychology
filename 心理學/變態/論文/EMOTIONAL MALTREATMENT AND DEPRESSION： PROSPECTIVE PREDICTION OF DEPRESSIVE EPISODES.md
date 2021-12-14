@@ -49,3 +49,5 @@ table 1
 在CVD DAS被擴產程包含成就、人際關係領域的dysfunction belief
 - 有良好的表現 具信度與效度
 - 可以有效預測憂鬱的發生
+
+另一個測驗是 BDI beck depression inve
