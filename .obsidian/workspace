@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心理學/變態/Mood disorder/Bipolar Disorders.md",
+            "file": "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "b11138455bfcfa21"
+      },
+      {
+        "id": "3ba430de6bc3797f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b11138455bfcfa21"
       }
     ],
     "direction": "vertical"
@@ -52,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cd6b15b496412581",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/變態/Mood disorder/Bipolar Disorders.md",
+                "file": "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +101,8 @@
   },
   "active": "641a4040d309d497",
   "lastOpenFiles": [
+    "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
+    "conflict-files-obsidian-git.md",
     "心理學/變態/Mood disorder/Bipolar Disorders.md",
     "心理學/變態/Mood disorder/1. Depression 的研究.md",
     "心理學/變態/Mood disorder/0. Overview.md",
@@ -96,7 +110,6 @@
     "心理學/變態/Mood disorder/Major Depressive Disorder.md",
     "心理學/未命名.md",
     "心理學/性格/人本/2. Rogers.md",
-    "心理學/性格/精神分析/2. Freud.md",
-    "心理學/性格/精神分析/1. 概述.md"
+    "心理學/性格/精神分析/2. Freud.md"
   ]
 }
