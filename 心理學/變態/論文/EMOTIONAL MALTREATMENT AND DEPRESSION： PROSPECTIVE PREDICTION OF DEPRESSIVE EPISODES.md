@@ -51,3 +51,10 @@ table 1
 - 可以有效預測憂鬱的發生
 
 另一個測驗是 BDI beck depression inventory
+
+每六周會進行一次晤談 
+由訓練過的研究助理進行 但他不知道參與者的LES SI cognitive risk status 的情況 
+LES SI 是把問卷與半結構晤談結合 
+LES包含134個episodic 或 chronic 生活經驗 跨度很廣(學校 家庭 羅曼蒂克的關係 經濟）
+每六周會把人分成上一次(上次到六周後他今天）有發生上面事件經驗與沒有 
+做完LES後 就會由助理(一樣不知道LES SADS-C cognitive risk status)做SI的interview
