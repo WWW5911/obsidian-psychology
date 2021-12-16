@@ -58,3 +58,10 @@ LES SI 是把問卷與半結構晤談結合
 LES包含134個episodic 或 chronic 生活經驗 跨度很廣(學校 家庭 羅曼蒂克的關係 經濟）
 每六周會把人分成上一次(上次到六周後他今天）有發生上面事件經驗與沒有 
 做完LES後 就會由助理(一樣不知道LES SADS-C cognitive risk status)做SI的interview
+
+SI是對於LES的信賴度與有效度的確認
+- 使用明確的定義症狀發生與否
+SI也會針對LES沒有測到的生活經驗
+
+在本研究中，只有使用LES的事件來比對HART所描述的EM與一些狀況的定義是否一致
+
