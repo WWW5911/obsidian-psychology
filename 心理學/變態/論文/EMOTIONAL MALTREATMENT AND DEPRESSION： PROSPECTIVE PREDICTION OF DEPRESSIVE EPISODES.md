@@ -76,4 +76,14 @@ SI也會針對LES沒有測到的生活經驗
 如果都沒發生抑鬱狀況，那所有的EM事件都會被納入討論
 
 PROCEFURE
-會根據CSQ跟DAS的評分來假設參與
+會根據CSQ跟DAS的評分(沒有發生 Axis I disorders)來假設參與者對於抑鬱認知風險的高低，只有這些人才會被納入研究中
+隨訪期間，報名者都有同意實驗，也有收錢
+
+DATA ANALYSES
+使用COX比例風險回歸進行生存分析，來評估EM與預測MD與MID的發展時間
+這種方式可以最大程度減少因時間產深的偏差
+生存發攜會利用每個時間點的可用數具、並能檢視丟失的數據
+總體來說 同儕與權威EM是預測變量、抑鬱發作的時間是結果衡量標準
+為了確保EM與新抑鬱發作的前瞻性關係不是因為depression史、或家族病史、或cognitive vulnerability
+
+baseline BDI scores, cognitive risk status, and family depression history 也會被包含在內，作為協變量
