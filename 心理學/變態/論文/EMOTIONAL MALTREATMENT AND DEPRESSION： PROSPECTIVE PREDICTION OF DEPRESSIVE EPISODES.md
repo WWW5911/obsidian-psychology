@@ -89,4 +89,5 @@ DATA ANALYSES
 baseline BDI scores, cognitive risk status, and family depression history 也會被包含在內，作為協變量
 #### Result
 - greater experiences of emotional maltreatment predicted a shorter time to development of MD and MiD collectively, and HD, after controlling for BDI scores, cognitive risk status, and family depression history (P.05).
-- 對於
+- The BDI * overall emotional maltreatment interaction did not predict the time to the occurrence
+- the cognitive risk * overall 也是
