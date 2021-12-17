@@ -108,3 +108,12 @@ baseline BDI scores, cognitive risk status, and family depression history 也會
 	- 分別來看都跟HD有關
 	- 但與MD MiD無關
 	- EM可能可以預測HD
+- 同儕與權威在控制父母影響、MD和MiD發作時間與同儕、權威EM缺乏獨立關係，但
+	- 控制父母影響：同儕的EM明顯可以預測憂鬱認知風格
+	- 可能是因為研究之間的差異，因為這兩個類別被擴大了
+		-   Specifically, Gibb and colleagues focused on emotional MALTREATMENT committed exclusively by parents or nonrelated peers, whereas these two categories were broadened in this study to include other authority figures (e.g., professors and TAs) and biologically related peers (e.g., siblings), respectively
+
+	- 或是因為在EM的調查中 有28%的狀況是難以對施暴者分類的
+		- 所以不能被納入特定來源的EM，但能包刮在OVERALL
+- 在過去研究中，兒童的EM與cognitive risk有關，她們發現cognitive risk與權威有關
+	- MD MiD 但與同儕或整體無關
