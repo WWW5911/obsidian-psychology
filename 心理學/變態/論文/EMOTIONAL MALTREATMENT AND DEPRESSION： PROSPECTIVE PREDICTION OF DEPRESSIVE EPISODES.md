@@ -98,3 +98,13 @@ baseline BDI scores, cognitive risk status, and family depression history 也會
 
 - 控制cognitive risk 、 BDI、家庭憂鬱史，同儕與權勢的EM能預測更短的發作HD時間
 	- 但MD MiD無法預測
+
+#### 結論
+- 本研究提出了EM與憂鬱症發作有關
+	- 會史新的MD MiD HD發作時間更短
+- 目前的EM會縮短新的憂鬱發作時間
+
+- 第二個假設也有部分支持
+	- 分別來看都跟HD有關
+	- 但與MD MiD無關
+	- EM可能可以預測HD
