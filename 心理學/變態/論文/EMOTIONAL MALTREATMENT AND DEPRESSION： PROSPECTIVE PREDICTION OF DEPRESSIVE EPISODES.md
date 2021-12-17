@@ -87,3 +87,6 @@ DATA ANALYSES
 為了確保EM與新抑鬱發作的前瞻性關係不是因為depression史、或家族病史、或cognitive vulnerability
 
 baseline BDI scores, cognitive risk status, and family depression history 也會被包含在內，作為協變量
+#### Result
+- greater experiences of emotional maltreatment predicted a shorter time to development of MD and MiD collectively, and HD, after controlling for BDI scores, cognitive risk status, and family depression history (P.05).
+- 對於
