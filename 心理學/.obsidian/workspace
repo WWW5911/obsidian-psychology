@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "62e60f1bfe16d243",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "性格/人本心理學/1. Rogers.md",
-            "mode": "source"
-          }
-        },
-        "group": "2caafc8ba0883eed"
-      },
-      {
         "id": "5cff2c465758d144",
         "type": "leaf",
         "state": {
@@ -24,8 +12,7 @@
             "file": "性格/人本心理學/1. Rogers.md",
             "mode": "preview"
           }
-        },
-        "group": "2caafc8ba0883eed"
+        }
       }
     ],
     "direction": "vertical"
@@ -104,9 +91,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "62e60f1bfe16d243",
+  "active": "5cff2c465758d144",
   "lastOpenFiles": [
     "性格/人本心理學/1. Rogers.md",
     "變態/Mood disorder/Major Depressive Disorder.md",
