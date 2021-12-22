@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/人本心理學/6. 心理治療.md",
+            "file": "變態/Mood disorder/1. Depression 的研究.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/人本心理學/6. 心理治療.md",
+                "file": "變態/Mood disorder/1. Depression 的研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "性格/人本心理學/6. 心理治療.md",
-    "變態/總整/Psychological disorder.md",
-    "變態/總整/Personal Distress.md",
-    "變態/總整/認知學派.md",
-    "性格/人本心理學/5. 正向關懷.md",
-    "性格/人本心理學/4. 自我.md",
-    "性格/人本心理學/3. 現象學.md",
-    "性格/人本心理學/1. Rogers.md",
-    "性格/人本心理學/2. 自我實現.md",
+    "變態/Mood disorder/1. Depression 的研究.md",
+    "變態/Mood disorder/2. 病因學 (心理).md",
+    "變態/Mood disorder/3. 病因學 (生理).md",
+    "變態/Mood disorder/4. 心理治療.md",
+    "變態/Mood disorder/5. 生物性治療.md",
+    "變態/Mood disorder/6. 藥物治療.md",
+    "變態/Mood disorder/7. 自殺.md",
+    "變態/Mood disorder/Mania.md",
+    "變態/Mood disorder/Persistent Depressive Disorder.md",
     "變態/Mood disorder/Major Depressive Disorder.md"
   ]
 }
