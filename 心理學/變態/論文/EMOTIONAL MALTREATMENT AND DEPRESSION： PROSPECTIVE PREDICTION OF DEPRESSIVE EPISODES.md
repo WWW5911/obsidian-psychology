@@ -12,7 +12,7 @@
 
 --
 
-負面思考風格充分介導了emotional maltreatment與NEMD，以及部分介島emotional maltreatment與HD
+負面思考風格充分介導了emotional maltreatment與NEMD，以及部分介導emotional maltreatment與HD
 
 具有早期的emotional maltreatment但不是身體或性虐待的個案，在平均2.5年的隨訪期中能預估出自殺想法與嘗試，這也是因思考風格
 
