@@ -101,7 +101,7 @@ baseline BDI scores, cognitive risk status, and family depression history 也會
 
 #### 結論
 - 本研究提出了EM與憂鬱症發作有關
-	- 會史新的MD MiD HD發作時間更短
+	- 會使新的MD MiD HD發作時間更短
 - 目前的EM會縮短新的憂鬱發作時間
 
 - 第二個假設也有部分支持
