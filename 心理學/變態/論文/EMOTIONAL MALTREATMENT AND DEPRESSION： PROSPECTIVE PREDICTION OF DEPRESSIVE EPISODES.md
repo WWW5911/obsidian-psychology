@@ -115,7 +115,7 @@ baseline BDI scores, cognitive risk status, and family depression history 也會
 
 	- 或是因為在EM的調查中 有28%的狀況是難以對施暴者分類的
 		- 所以不能被納入特定來源的EM，但能包刮在OVERALL
-- 在過去研究中，兒童的EM與cognitive risk有關，她們發現cognitive risk與權威有關
+- 在過去研究中，兒童的EM與cognitive risk有關，本研究她們發現cognitive risk與權威有關
 	- MD MiD HD但與同儕或整體無關
 		- 可能顯示成人的虐待行為持續更久 特別是父母
 		- 相比同儕 從高中與大學是不同的群體
