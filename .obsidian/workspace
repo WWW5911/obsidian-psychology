@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
+            "file": "心理學/性格/個人心理學/2. Alder.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
+            "file": "心理學/性格/個人心理學/2. Alder.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
+                "file": "心理學/性格/個人心理學/2. Alder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "641a4040d309d497",
   "lastOpenFiles": [
+    "心理學/性格/個人心理學/2. Alder.md",
+    "心理學/性格/個人心理學/1. 概述.md",
+    "心理學/性格/分析心理學/1. Jung.md",
+    "心理學/性格/分析心理學/2. 心理要素的對比性.md",
+    "心理學/性格/分析心理學/3. 人格的三個層次.md",
+    "心理學/性格/分析心理學/4. 原型.md",
+    "心理學/性格/分析心理學/5. 心理態度、心理功能.md",
+    "心理學/性格/分析心理學/6. 心理治療.md",
     "心理學/變態/論文/EMOTIONAL MALTREATMENT AND DEPRESSION： PROSPECTIVE PREDICTION OF DEPRESSIVE EPISODES.md",
-    "conflict-files-obsidian-git.md",
-    "心理學/變態/Mood disorder/Bipolar Disorders.md",
-    "心理學/變態/Mood disorder/1. Depression 的研究.md",
-    "心理學/變態/Mood disorder/0. Overview.md",
-    "心理學/變態/Mood disorder/Persistent Depressive Disorder.md",
-    "心理學/變態/Mood disorder/Major Depressive Disorder.md",
-    "心理學/未命名.md",
-    "心理學/性格/人本/2. Rogers.md",
-    "心理學/性格/精神分析/2. Freud.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
