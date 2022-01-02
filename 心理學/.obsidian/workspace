@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "暫存.md",
+            "file": "性格/行為心理學/2. 行為主義.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "暫存.md",
+            "file": "性格/行為心理學/2. 行為主義.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "暫存.md",
+                "file": "性格/行為心理學/2. 行為主義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "暫存.md",
     "性格/行為心理學/2. 行為主義.md",
+    "性格/分析心理學/4. 原型.md",
+    "暫存.md",
     "性格/行為心理學/1. Skinner.md",
     "性格/個人心理學/2. Alder.md",
     "性格/個人心理學/1. 概述.md",
     "性格/心理社會階段/1. Erikson.md",
     "變態/Mood disorder/3. 病因學 (生理).md",
     "變態/Mood disorder/2. 病因學 (心理).md",
-    "變態/Mood disorder/6. 藥物治療.md",
-    "變態/Mood disorder/5. 生物性治療.md"
+    "變態/Mood disorder/6. 藥物治療.md"
   ]
 }
