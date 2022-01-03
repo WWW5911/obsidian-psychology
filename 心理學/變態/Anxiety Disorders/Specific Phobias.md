@@ -17,8 +17,8 @@
 #### Types of Specific Phobias
 Type of Phobia | Examples of the Featured Object | Associated Characteristics
 --|--|--
-Animal |Snakes, insects | 
-Natural Environment |
-Blood, injection, injury |
-Situational |
-Other |
+Animal |Snakes, insects | Generally begins during childhood
+Natural Environment | Storms, heights, weather | Generally begins during childhood
+Blood, injection, injury | Blood, injury, injections, or other invasive medical procedures | Runs in families; profile of heart rate slowing and possible fainting when facing feared stimulus (LeBeau, Glenn, et al., 2010)
+Situational |Public transportation, tunnels, bridges, elevators, flying, driving, closed spaces | Tends to begin in either childhood or in mid-20s
+Other | Choking, contracting an illness, etc. Children’s fears of loud sounds, clowns, etc.
