@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Anxiety Disorders/Social Anxiety Disorder.md",
+            "file": "變態/Anxiety Disorders/Panic Disorder.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Anxiety Disorders/Social Anxiety Disorder.md",
+            "file": "變態/Anxiety Disorders/Panic Disorder.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/Anxiety Disorders/Social Anxiety Disorder.md",
+                "file": "變態/Anxiety Disorders/Panic Disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "變態/Anxiety Disorders/Social Anxiety Disorder.md",
+    "變態/Anxiety Disorders/Panic Disorder.md",
+    "變態/Anxiety Disorders/0. Overview.md",
     "變態/Anxiety Disorders/Specific Phobias.md",
+    "變態/Anxiety Disorders/Social Anxiety Disorder.md",
     "變態/總整/Psychological disorder.md",
     "暫存.md",
     "性格/行為心理學/6. 衡鑑方式.md",
     "性格/行為心理學/0. Overview.md",
     "性格/行為心理學/5. 操作制約應用.md",
-    "性格/行為心理學/3. 行為.md",
-    "性格/行為心理學/4. 增強.md",
-    "性格/行為心理學/5. 自我控制.md"
+    "性格/行為心理學/3. 行為.md"
   ]
 }
