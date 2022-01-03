@@ -28,3 +28,7 @@ aliases: [Panic Disorder, Panic Attacks]
 - 擔心會發作更多恐慌
 - 25% of people will experience a single panic attack 
 	- Not the same as panic disorder
+
+#### DSM-5 Criteria
+- Recurrent unexpected panic attacks
+- At least 1 month of concern about the possibility of more attacks occurring or the consequences of an attack, or maladaptive behavioral changes because of the attacks
