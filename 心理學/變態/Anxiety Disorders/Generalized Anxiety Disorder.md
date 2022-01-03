@@ -1,0 +1,13 @@
+#### 廣泛性焦慮症 _Generalized Anxiety Disorder_
+- 長期對於微小的事情感到擔憂 (Worry)，很難不去想她
+	- 很多微小的壓力產生
+	- Worry ：不斷思考問題且難以不再去想的認知傾向
+		- 常見的如：Relationships, health, finances, daily hassles
+- 常包括：
+	- 注意力不集中
+	- 容易疲倦、易怒
+	- 煩躁
+	- 肌肉緊張
+- 通常開始於青春期
+- 50%的個案會跟其他焦慮症共病 
+	- 如 
