@@ -13,3 +13,12 @@
 	- 會避開那些物品或情況、或強忍強烈的焦慮
 
 ![Types of Specific Phobias | 650](https://i.imgur.com/flr4klA.png)
+
+#### Types of Specific Phobias
+Type of Phobia | Examples of the Featured Object | Associated Characteristics
+--|--|--
+Animal |Snakes, insects | 
+Natural Environment |
+Blood, injection, injury |
+Situational |
+Other |

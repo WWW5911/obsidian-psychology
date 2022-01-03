@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "暫存.md",
+            "file": "變態/Anxiety Disorders/Specific Phobias.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "暫存.md",
-            "mode": "source"
+            "file": "變態/Anxiety Disorders/Specific Phobias.md",
+            "mode": "preview"
           }
         },
         "group": "763874c5e58d2235"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "暫存.md",
+                "file": "變態/Anxiety Disorders/Specific Phobias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "變態/Anxiety Disorders/Specific Phobias.md",
+    "變態/總整/Psychological disorder.md",
     "暫存.md",
     "性格/行為心理學/6. 衡鑑方式.md",
     "性格/行為心理學/0. Overview.md",
@@ -116,8 +118,6 @@
     "性格/行為心理學/3. 行為.md",
     "性格/行為心理學/4. 增強.md",
     "性格/行為心理學/5. 自我控制.md",
-    "性格/行為心理學/2. 行為主義.md",
-    "變態/Anxiety Disorders/0. Overview.md",
-    "變態/Mood disorder/1. Depression 的研究.md"
+    "性格/行為心理學/2. 行為主義.md"
   ]
 }
