@@ -29,3 +29,8 @@
 	- Obsessions are defined by
 		- Recurrent, intrusive, persistent __unwanted__ thoughts, urges, or images
 		- The person tried to ignore, suppress or neutralize the thoughts, urges, or images
+	- Compulsions are defined by
+		- Repetitive behaviours or thoughts that the person feels compelled to perform to ==prevent distress== or a dreaded event
+		- The person feels driven to perform the repetitive behaviours or thoughts in response to obsessions or according to rigid rules
+		- The acts are excessive or unlikely to prevent the dreaded situation
+	- The obsessions or compulsions are time consuming (e.g., at least one hour per day) or cause clinically significant distress or impairment
