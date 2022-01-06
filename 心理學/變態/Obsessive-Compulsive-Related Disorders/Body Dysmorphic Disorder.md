@@ -19,8 +19,16 @@ Dysmorphic : 不對稱、不好的
 ##### 較不會因為文化而對症狀與後果有差異
 - 但是觀看的身體部位可能不同
 
-
 ##### 如果只關注身型跟體重，症狀可能比較接近 eating disorder
+
+#### 病因
+- 會非常在意別人去思考自己的外觀
+	- 過分在意細結，旁人覺得根本沒太大差別
+	- 因而去影響自己看待身體的想法
+- 不會去看整體，而是只看某個特徵
+	- 如鼻子高不高
+- 自己一定要比別人更有吸引力
+	- 不在乎外表以外的事情
 
 #### DSM-5 Criteria
 - Preoccupation with one or more perceived defects in appearance

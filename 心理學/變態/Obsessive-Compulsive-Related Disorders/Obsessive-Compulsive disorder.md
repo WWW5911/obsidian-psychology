@@ -23,6 +23,20 @@
 - 可能是一個行為儀式
 - 常在14歲之前就能看到一些跡象
 
+#### 認知行為模型
+- 都是一種固著性的行為來降低威脅、焦慮
+	- 固著性：有點類似儀式性
+- 就算這些威脅已經消失了，還是認為這些威脅還在
+	- 行為模式也因此炎序
+- 很難去改變他的反應
+- 非常難以去抑制他們的obsession
+	- 企圖壓抑侵入式的思考可能反而會增加這些思考的頻率
+- ##### Thought-action fusion
+	- 稍微想到什麼就去做這個行為
+	- 不會去思考這兩者之間的關係
+	- 思考這件事情會去讓這件事情更容易發生
+		- 如思考地震，之後真的就會發生地震、因而去做出行為
+		- 背後原因就是要降低他的焦慮
 
 #### DSM-5 Criteria
 - Obsessions and/or compulsions
@@ -34,3 +48,4 @@
 		- The person feels driven to perform the repetitive behaviours or thoughts in response to obsessions or according to rigid rules
 		- The acts are excessive or unlikely to prevent the dreaded situation
 	- The obsessions or compulsions are time consuming (e.g., at least one hour per day) or cause clinically significant distress or impairment
+

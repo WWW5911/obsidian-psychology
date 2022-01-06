@@ -9,6 +9,16 @@
 - 常常在童年或青少年早期就開始
 - 常常沒辦法去做分類
 
+#### 病因
+- 組織能力很差、且很難有注意力
+	- 所以很去分類、做決定
+- 有一些不尋常的信念
+	- 對擁有的物品有一些非理性的信念
+	- 對那些物品有過度的情感依附
+- 也算是迴避性行為
+	- 使用這些行為來
+	- 只要做了就不用管其他事情
+
 #### DSM-5 Criteria
 - Persistent difficulty discarding or parting with possessions, regardless of their actual value
 	持續難以丟棄物品或與之分離，不管其實際的價值如何
