@@ -20,4 +20,13 @@ Dysmorphic : 不對稱、不好的
 - 但是觀看的身體部位可能不同
 
 
-##### 如果只關注身型跟體重
+##### 如果只關注身型跟體重，症狀可能比較接近 eating disorder
+
+#### DSM-5 Criteria
+- Preoccupation with one or more perceived defects in appearance
+- Others find the perceived defect(s) as __slight__ or __unobservable__
+	- 第三者會覺得一點也不嚴重
+- The person has performed ==repetitive behaviours or mental acts== (e.g., mirror checking, seeking reassurance, or excessive grooming) in response to the appearance concerns
+	- grooming : 梳妝整理打扮
+- Preoccupation is not restricted to concerns about weight or body fat
+	- 排除掉 eating disorder
