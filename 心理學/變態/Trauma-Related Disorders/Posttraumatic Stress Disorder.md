@@ -35,9 +35,24 @@ aliases: [PTSD]
 	>可是當3 4個月後，自己放鬆下來、又發生一個事件 -> 演變成PTSD
 - ==不是當下很堅強就沒有創傷==
 	- 所以要觀察至少6個月以上
-#### 長期暴露在trauma當中會使症狀變得更加廣泛、更多
+##### 長期暴露在trauma當中會使症狀變得更加廣泛、更多
 - PTSD本身是非常複雜的
 
+
+#### 流行病學
+- ##### 很常共病
+	- 像是[[變態/Anxiety Disorders/0. Overview|Anxiety]]、[[1. Depression 的研究|Depression]]、物質成癮、行為障礙、personality disorders
+		- 所以以前是把PTSD放在焦慮疾患裡面
+		- 有非常多的理論來解釋PTSD
+		- 長期處於焦慮、憂鬱狀態 -> 使用藥物來幫助自己恢復
+- 女性的盛行率是男性的1.5~2倍
+	- 與焦慮症的盛行率是一致的
+	- 隨著女性不同的生命歷程會有差異
+		- 年輕時可能會嚴重一些
+		- 老一點的時候可能就比較能承受一點壓力
+- 文化上也會有影響
+	-  狀況的種類
+	-  
 
 #### DSM-5 Criteria
 - Exposure to a serious trauma
@@ -59,4 +74,7 @@ aliases: [PTSD]
 	-  Negative alterations in cognitions and mood
 		-  會產生負向的想法、情緒
 	-  Arousal and reactivity
-		-  過ㄉㄨ
+		-  過度的具有攻擊性 
+			-  兒子拿球棒邀請爸爸打球，爸爸就很怕、而去教訓小孩
+		- 害怕家人離去，而產生過度反應
+		- 過度的驚嚇反應 
