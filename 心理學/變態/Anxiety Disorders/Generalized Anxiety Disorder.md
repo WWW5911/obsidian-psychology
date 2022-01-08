@@ -1,3 +1,7 @@
+---
+aliases: [GAD]
+---
+
 #### 廣泛性焦慮症 _Generalized Anxiety Disorder_
 - 長期對於微小的事情感到擔憂 (Worry)，很難不去想她
 	- 很多微小的壓力產生

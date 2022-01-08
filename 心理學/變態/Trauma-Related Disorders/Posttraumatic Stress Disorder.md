@@ -52,7 +52,7 @@ aliases: [PTSD]
 		- 老一點的時候可能就比較能承受一點壓力
 - 文化上也會有影響
 	-  狀況的種類
-	-  
+	-  如何暴露在trauma中
 
 #### DSM-5 Criteria
 - Exposure to a serious trauma
