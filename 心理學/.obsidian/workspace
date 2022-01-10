@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Anxiety Disorders/1. Factors.md",
+            "file": "變態/Anxiety Disorders/Social Anxiety Disorder.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Anxiety Disorders/1. Factors.md",
+            "file": "變態/Anxiety Disorders/Social Anxiety Disorder.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/Anxiety Disorders/1. Factors.md",
+                "file": "變態/Anxiety Disorders/Social Anxiety Disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cff2c465758d144",
+  "active": "a0466c8626a7a146",
   "lastOpenFiles": [
+    "變態/Anxiety Disorders/Social Anxiety Disorder.md",
     "變態/Anxiety Disorders/1. Factors.md",
     "變態/Anxiety Disorders/0. Overview.md",
     "變態/Anxiety Disorders/Panic Disorder.md",
@@ -117,7 +118,6 @@
     "變態/Trauma-Related Disorders/Acute Stress Disorder.md",
     "變態/Trauma-Related Disorders/Posttraumatic Stress Disorder.md",
     "變態/Trauma-Related Disorders/0. Overview.md",
-    "變態/Anxiety Disorders/Generalized Anxiety Disorder.md",
-    "變態/Anxiety Disorders/Agoraphobia.md"
+    "變態/Anxiety Disorders/Generalized Anxiety Disorder.md"
   ]
 }
