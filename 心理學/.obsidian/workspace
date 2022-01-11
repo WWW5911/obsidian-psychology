@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/行為心理學/14. 習得無助-解釋風格.md",
+            "file": "性格/行為心理學/1. Skinner.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/行為心理學/14. 習得無助-解釋風格.md",
+            "file": "性格/行為心理學/1. Skinner.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/行為心理學/14. 習得無助-解釋風格.md",
+                "file": "性格/行為心理學/1. Skinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "性格/行為心理學/1. Skinner.md",
+    "性格/行為心理學/2. 行為主義.md",
     "性格/行為心理學/14. 習得無助-解釋風格.md",
     "性格/行為心理學/13. 習得無助-研究.md",
     "性格/行為心理學/12. 習得無助-實驗.md",
     "性格/行為心理學/11. Seligman.md",
-    "性格/行為心理學/1. Skinner.md",
     "未命名.md",
     "變態/Anxiety Disorders/Social Anxiety Disorder.md",
     "變態/Anxiety Disorders/1. Factors.md",
-    "變態/Anxiety Disorders/0. Overview.md",
-    "變態/Anxiety Disorders/Panic Disorder.md"
+    "變態/Anxiety Disorders/0. Overview.md"
   ]
 }
