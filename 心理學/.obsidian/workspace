@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/行為心理學/3. 行為.md",
+            "file": "性格/精神分析/7. 防衛機制.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/行為心理學/3. 行為.md",
+            "file": "性格/精神分析/7. 防衛機制.md",
             "mode": "preview"
           }
         },
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/行為心理學/3. 行為.md",
+                "file": "性格/精神分析/7. 防衛機制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +109,8 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "性格/精神分析/7. 防衛機制.md",
+    "性格/精神分析/8. 人格發展的性心理階段.md",
     "性格/行為心理學/3. 行為.md",
     "變態/Anxiety Disorders/1. Factors.md",
     "變態/Anxiety Disorders/Social Anxiety Disorder.md",
@@ -117,8 +118,6 @@
     "變態/Anxiety Disorders/Panic Disorder.md",
     "變態/Anxiety Disorders/Agoraphobia.md",
     "變態/Mood disorder/0. Overview.md",
-    "變態/Mood disorder/Mania.md",
-    "性格/行為心理學/4. 增強.md",
-    "性格/行為心理學/5. 操作制約應用.md"
+    "變態/Mood disorder/Mania.md"
   ]
 }
