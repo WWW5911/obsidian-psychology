@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/0. Overview.md",
+            "file": "性格/行為心理學/3. 行為.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/0. Overview.md",
+            "file": "性格/行為心理學/3. 行為.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "負向",
+                "query": "漸進",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/Mood disorder/0. Overview.md",
+                "file": "性格/行為心理學/3. 行為.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +110,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "性格/行為心理學/3. 行為.md",
+    "變態/Anxiety Disorders/1. Factors.md",
+    "變態/Anxiety Disorders/Social Anxiety Disorder.md",
+    "變態/Anxiety Disorders/Specific Phobias.md",
+    "變態/Anxiety Disorders/Panic Disorder.md",
+    "變態/Anxiety Disorders/Agoraphobia.md",
     "變態/Mood disorder/0. Overview.md",
     "變態/Mood disorder/Mania.md",
     "性格/行為心理學/4. 增強.md",
-    "性格/行為心理學/5. 操作制約應用.md",
-    "性格/行為心理學/2. 行為主義.md",
-    "性格/行為心理學/3. 行為.md",
-    "性格/行為心理學/6. 衡鑑方式.md",
-    "性格/行為心理學/14. 習得無助-解釋風格.md",
-    "性格/行為心理學/1. Skinner.md",
-    "性格/人本心理學/4. 自我.md"
+    "性格/行為心理學/5. 操作制約應用.md"
   ]
 }
