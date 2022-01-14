@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心理學/變態/Anxiety Disorders/Social Anxiety Disorder.md",
+            "file": "心理學/變態/Anxiety Disorders/Panic Disorder.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/變態/Anxiety Disorders/Social Anxiety Disorder.md",
+                "file": "心理學/變態/Anxiety Disorders/Panic Disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3ba430de6bc3797f",
   "lastOpenFiles": [
-    "心理學/變態/Anxiety Disorders/Social Anxiety Disorder.md",
     "心理學/變態/Anxiety Disorders/Panic Disorder.md",
-    "心理學/變態/Anxiety Disorders/Generalized Anxiety Disorder.md",
-    "心理學/變態/Anxiety Disorders/Agoraphobia.md",
-    "心理學/變態/Anxiety Disorders/0. Overview.md",
-    "心理學/變態/Trauma-Related Disorders/1. 病理學.md",
-    "心理學/性格/個人心理學/2. Alder.md",
-    "心理學/性格/個人心理學/1. 概述.md",
-    "心理學/性格/分析心理學/1. Jung.md",
-    "心理學/性格/分析心理學/2. 心理要素的對比性.md"
+    "心理學/變態/Mood disorder/Major Depressive Disorder.md",
+    "心理學/變態/Mood disorder/2. 病因學 (心理).md",
+    "心理學/變態/Mood disorder/3. 病因學 (生理).md",
+    "心理學/變態/Obsessive-Compulsive-Related Disorders/0. Overview.md",
+    "心理學/變態/Obsessive-Compulsive-Related Disorders/Obsessive-Compulsive disorder.md",
+    "心理學/變態/Trauma-Related Disorders/Acute Stress Disorder.md",
+    "心理學/變態/Trauma-Related Disorders/Posttraumatic Stress Disorder.md",
+    "心理學/變態/Mood disorder/Persistent Depressive Disorder.md",
+    "心理學/變態/Mood disorder/Mania.md"
   ]
 }
