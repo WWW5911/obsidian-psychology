@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心理學/變態/Trauma-Related Disorders/1. 病理學.md",
+            "file": "心理學/變態/Anxiety Disorders/Social Anxiety Disorder.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/變態/Trauma-Related Disorders/1. 病理學.md",
+                "file": "心理學/變態/Anxiety Disorders/Social Anxiety Disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "3ba430de6bc3797f",
   "lastOpenFiles": [
-    "心理學/變態/Trauma-Related Disorders/1. 病理學.md",
+    "心理學/變態/Anxiety Disorders/Social Anxiety Disorder.md",
     "心理學/變態/Anxiety Disorders/Panic Disorder.md",
     "心理學/變態/Anxiety Disorders/Generalized Anxiety Disorder.md",
+    "心理學/變態/Anxiety Disorders/Agoraphobia.md",
+    "心理學/變態/Anxiety Disorders/0. Overview.md",
+    "心理學/變態/Trauma-Related Disorders/1. 病理學.md",
     "心理學/性格/個人心理學/2. Alder.md",
     "心理學/性格/個人心理學/1. 概述.md",
     "心理學/性格/分析心理學/1. Jung.md",
-    "心理學/性格/分析心理學/2. 心理要素的對比性.md",
-    "心理學/性格/分析心理學/3. 人格的三個層次.md",
-    "心理學/性格/分析心理學/4. 原型.md",
-    "心理學/性格/分析心理學/5. 心理態度、心理功能.md"
+    "心理學/性格/分析心理學/2. 心理要素的對比性.md"
   ]
 }
