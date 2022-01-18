@@ -31,4 +31,4 @@ aliases: [Panic Disorder, Panic Attacks]
 
 #### DSM-5 Criteria
 - Recurrent unexpected panic attacks
-- At least 1 month of concern about the possibility of more attacks occurring or the consequences of an attack, or maladaptive behavioral changes because of the attacks
+- ==At least 1 month== of concern about the possibility of more attacks occurring or the consequences of an attack, or maladaptive behavioral changes because of the attacks
