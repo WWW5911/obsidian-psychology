@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/心理社會階段/2. 心理社會發展階段.md",
+            "file": "性格/個人心理學/3. 自卑.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/心理社會階段/2. 心理社會發展階段.md",
+            "file": "性格/個人心理學/3. 自卑.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/心理社會階段/2. 心理社會發展階段.md",
+                "file": "性格/個人心理學/3. 自卑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "性格/個人心理學/3. 自卑.md",
+    "性格/個人心理學/2. Alder.md",
+    "性格/精神分析/1. 概述.md",
+    "性格/人本心理學/2. 自我實現.md",
+    "性格/分析心理學/5. 心理態度、心理功能.md",
+    "性格/分析心理學/3. 人格的三個層次.md",
+    "性格/分析心理學/1. Jung.md",
     "性格/心理社會階段/2. 心理社會發展階段.md",
     "性格/心理社會階段/1. Erikson.md",
-    "性格/精神分析/7. 防衛機制.md",
-    "性格/精神分析/8. 人格發展的性心理階段.md",
-    "性格/行為心理學/3. 行為.md",
-    "變態/Anxiety Disorders/1. Factors.md",
-    "變態/Anxiety Disorders/Social Anxiety Disorder.md",
-    "變態/Anxiety Disorders/Specific Phobias.md",
-    "變態/Anxiety Disorders/Panic Disorder.md",
-    "變態/Anxiety Disorders/Agoraphobia.md"
+    "性格/精神分析/7. 防衛機制.md"
   ]
 }
