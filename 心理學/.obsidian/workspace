@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/3. 病因學 (生理).md",
+            "file": "性格/人本心理學/4. 自我.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/Mood disorder/3. 病因學 (生理).md",
+            "file": "性格/人本心理學/4. 自我.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/Mood disorder/3. 病因學 (生理).md",
+                "file": "性格/人本心理學/4. 自我.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "變態/Mood disorder/3. 病因學 (生理).md",
-    "變態/Mood disorder/2. 病因學 (心理).md",
-    "變態/Mood disorder/0. Overview.md",
-    "變態/Anxiety Disorders/Social Anxiety Disorder.md",
-    "性格/精神分析/7. 防衛機制.md",
-    "性格/精神分析/8. 人格發展的性心理階段.md",
-    "性格/精神分析/3. 本能.md",
     "性格/人本心理學/4. 自我.md",
     "性格/人本心理學/5. 正向關懷.md",
-    "性格/個人心理學/3. 自卑.md"
+    "性格/行為心理學/12. 習得無助-實驗.md",
+    "性格/行為心理學/13. 習得無助-研究.md",
+    "性格/行為心理學/11. Seligman.md",
+    "性格/分析心理學/4. 原型.md",
+    "性格/分析心理學/3. 人格的三個層次.md",
+    "性格/分析心理學/2. 心理要素的對比性.md",
+    "性格/分析心理學/6. 心理治療.md",
+    "變態/Mood disorder/3. 病因學 (生理).md"
   ]
 }
