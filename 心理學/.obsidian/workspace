@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "變態/專有名詞.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "變態/專有名詞.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "變態/專有名詞.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "變態/專有名詞.md",
+    "變態/未命名.md",
     "未命名.md",
     "暫存.md",
     "變態/Mood disorder/Major Depressive Disorder.md",
@@ -116,8 +118,6 @@
     "變態/Anxiety Disorders/1. Factors.md",
     "變態/Anxiety Disorders/0. Overview.md",
     "變態/Anxiety Disorders/Agoraphobia.md",
-    "變態/Anxiety Disorders/Specific Phobias.md",
-    "變態/Anxiety Disorders/Panic Disorder.md",
-    "變態/Anxiety Disorders/Generalized Anxiety Disorder.md"
+    "變態/Anxiety Disorders/Specific Phobias.md"
   ]
 }
