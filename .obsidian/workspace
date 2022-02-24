@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "心理學/變態/Anxiety Disorders/0. Overview.md",
+            "file": "0224.md",
+            "mode": "source"
+          }
+        },
+        "group": "62ed2010071d5df8"
+      },
+      {
+        "id": "847884b6590636f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "0224.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "62ed2010071d5df8"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/變態/Anxiety Disorders/0. Overview.md",
+                "file": "0224.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +101,8 @@
   },
   "active": "3ba430de6bc3797f",
   "lastOpenFiles": [
+    "0224.md",
+    "心理學/暫存.md",
     "心理學/變態/Anxiety Disorders/0. Overview.md",
     "心理學/變態/Anxiety Disorders/1. Factors.md",
     "心理學/變態/Anxiety Disorders/Panic Disorder.md",
@@ -95,8 +110,6 @@
     "心理學/變態/Mood disorder/2. 病因學 (心理).md",
     "心理學/變態/Anxiety Disorders/Specific Phobias.md",
     "心理學/變態/Anxiety Disorders/Social Anxiety Disorder.md",
-    "心理學/變態/Anxiety Disorders/Agoraphobia.md",
-    "心理學/變態/Mood disorder/Persistent Depressive Disorder.md",
-    "心理學/變態/Mood disorder/Major Depressive Disorder.md"
+    "心理學/變態/Anxiety Disorders/Agoraphobia.md"
   ]
 }
