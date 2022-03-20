@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/人本心理學/4. 自我.md",
+            "file": "認知行為治療/2. 治療流程.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "性格/人本心理學/4. 自我.md",
+            "file": "認知行為治療/2. 治療流程.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性格/人本心理學/4. 自我.md",
+                "file": "認知行為治療/2. 治療流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "a0466c8626a7a146",
   "lastOpenFiles": [
+    "認知行為治療/2. 治療流程.md",
+    "認知行為治療/未整理.md",
     "性格/人本心理學/4. 自我.md",
     "conflict-files-obsidian-git.md",
     "性格/人本心理學/5. 正向關懷.md",
@@ -116,8 +118,6 @@
     "性格/人本心理學/2. 自我實現.md",
     "性格/人本心理學/3. 現象學.md",
     "性格/分析心理學/3. 人格的三個層次.md",
-    "性格/分析心理學/1. Jung.md",
-    "性格/心理社會階段/2. 心理社會發展階段.md",
-    "性格/心理社會階段/1. Erikson.md"
+    "性格/分析心理學/1. Jung.md"
   ]
 }
