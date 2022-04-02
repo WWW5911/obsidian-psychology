@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "助人技巧/助人歷程的概覽.md",
+            "file": "助人技巧/未整理.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "助人技巧/助人歷程的概覽.md",
+            "file": "助人技巧/未整理.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "助人技巧/助人歷程的概覽.md",
+                "file": "助人技巧/未整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "助人技巧/助人歷程的概覽.md",
-    "助人技巧/未命名 2.md",
-    "性格/人本心理學/1. Rogers.md",
     "助人技巧/未整理.md",
+    "助人技巧/未命名 2.md",
+    "助人技巧/助人者的倫理.md",
+    "助人技巧/助人歷程的概覽.md",
+    "性格/人本心理學/1. Rogers.md",
     "認知行為治療/2. 治療流程.md",
     "認知行為治療/未整理.md",
     "性格/人本心理學/4. 自我.md",
     "conflict-files-obsidian-git.md",
-    "性格/人本心理學/5. 正向關懷.md",
-    "性格/人本心理學/6. 心理治療.md"
+    "性格/人本心理學/5. 正向關懷.md"
   ]
 }
