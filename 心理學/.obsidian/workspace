@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "認知行為治療/2. 治療流程.md",
+            "file": "助人技巧/未整理.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "認知行為治療/2. 治療流程.md",
+            "file": "助人技巧/未整理.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "認知行為治療/2. 治療流程.md",
+                "file": "助人技巧/未整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0466c8626a7a146",
+  "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "助人技巧/未整理.md",
     "認知行為治療/2. 治療流程.md",
     "認知行為治療/未整理.md",
     "性格/人本心理學/4. 自我.md",
@@ -117,7 +118,6 @@
     "性格/人本心理學/6. 心理治療.md",
     "性格/人本心理學/2. 自我實現.md",
     "性格/人本心理學/3. 現象學.md",
-    "性格/分析心理學/3. 人格的三個層次.md",
-    "性格/分析心理學/1. Jung.md"
+    "性格/分析心理學/3. 人格的三個層次.md"
   ]
 }
