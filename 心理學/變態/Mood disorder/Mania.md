@@ -28,3 +28,14 @@ aliases: [mania, hypomania]
 	- Distractibility 
 	- Excessive involvement in activities that are likely to have undesirable consequences
 		- 如：無節制的消費、性行為、飆車
+
+##### 臨床症狀. 
+- 高昂的情緒，過度的樂觀和自信減少
+- 對睡眠的需求而且不會感到疲倦
+- 自大妄想，膨脹的自我意識
+- 身體和心理活動的增加
+- 說話速度快，思考快速和衝動
+- 判斷力差，容易分心
+- 莽撞的行為
+- 在極嚴重的情況下可能有妄想、幻覺
+
