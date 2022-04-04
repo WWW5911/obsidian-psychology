@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/1. 診斷分類.md",
+            "file": "精神醫學/0. 診斷分類.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/1. 診斷分類.md",
+            "file": "精神醫學/0. 診斷分類.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/1. 診斷分類.md",
+                "file": "精神醫學/0. 診斷分類.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "精神醫學/1. 診斷分類.md",
+    "精神醫學/0. 診斷分類.md",
     "認知行為治療/行為活化.md",
     "認知行為治療/4. 首次會談架構.md",
     "認知行為治療/認知模式.md",
