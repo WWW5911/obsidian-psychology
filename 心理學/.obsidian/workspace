@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
+            "file": "精神醫學/1. 雙極性情感疾患/0. Overview.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
+            "file": "精神醫學/1. 雙極性情感疾患/0. Overview.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
+                "file": "精神醫學/1. 雙極性情感疾患/0. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,11 +109,11 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
-    "精神醫學/一些定義.md",
     "精神醫學/1. 雙極性情感疾患/0. Overview.md",
-    "變態/Mood disorder/Mania.md",
+    "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
     "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
+    "精神醫學/一些定義.md",
+    "變態/Mood disorder/Mania.md",
     "精神醫學/0. 診斷分類.md",
     "變態/Mood disorder/1. Depression 的研究.md",
     "變態/Mood disorder/2. 病因學 (心理).md",
