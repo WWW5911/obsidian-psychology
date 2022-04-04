@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/0. 診斷分類.md",
+            "file": "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/0. 診斷分類.md",
+            "file": "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/0. 診斷分類.md",
+                "file": "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
+    "變態/Mood disorder/1. Depression 的研究.md",
+    "變態/Mood disorder/2. 病因學 (心理).md",
+    "變態/Mood disorder/3. 病因學 (生理).md",
+    "精神醫學/1. 雙極性情感疾患/0. Overview.md",
+    "精神醫學/一些定義.md",
+    "變態/Mood disorder/0. Overview.md",
+    "變態/Mood disorder/Mania.md",
     "精神醫學/0. 診斷分類.md",
-    "認知行為治療/行為活化.md",
-    "認知行為治療/4. 首次會談架構.md",
-    "認知行為治療/認知模式.md",
-    "認知行為治療/3. 治療前評估.md",
-    "認知行為治療/1. 總論.md",
-    "認知行為治療/0. 生活五大層面.md",
-    "變態/Anxiety Disorders/0. Overview.md",
-    "變態/Anxiety Disorders/1. Factors.md",
-    "認知行為治療/2. 治療流程.md"
+    "認知行為治療/行為活化.md"
   ]
 }
