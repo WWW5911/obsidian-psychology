@@ -41,7 +41,7 @@ aliases: [PTSD]
 
 #### 流行病學
 - ##### 很常共病
-	- 像是[[變態/Anxiety Disorders/0. Overview|Anxiety]]、[[1. Depression 的研究|Depression]]、物質成癮、行為障礙、personality disorders
+	- 像是[[變態/2. Anxiety Disorders/0. Overview|Anxiety]]、[[1. Depression 的研究|Depression]]、物質成癮、行為障礙、personality disorders
 		- 所以以前是把PTSD放在焦慮疾患裡面
 		- 有非常多的理論來解釋PTSD
 		- 長期處於焦慮、憂鬱狀態 -> 使用藥物來幫助自己恢復

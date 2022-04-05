@@ -19,7 +19,7 @@
 - 重複性且明確、過多的行為或心理動作==來降低焦慮==
 	-	強迫性行為的目的是降低焦慮
 - 非常難去抵抗這樣子的衝動性 (非做不可)
-	- 因此早期是被併在 [[變態/Anxiety Disorders/0. Overview|Anxiety]] 直到DSM5
+	- 因此早期是被併在 [[變態/2. Anxiety Disorders/0. Overview|Anxiety]] 直到DSM5
 - 可能是一個行為儀式
 - 常在14歲之前就能看到一些跡象
 
