@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/6. Schizophrenia/1. 症狀.md",
+            "file": "變態/6. Schizophrenia/2. Criteria.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/6. Schizophrenia/1. 症狀.md",
+            "file": "變態/6. Schizophrenia/2. Criteria.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/6. Schizophrenia/1. 症狀.md",
+                "file": "變態/6. Schizophrenia/2. Criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "變態/6. Schizophrenia/2. Criteria.md",
     "變態/6. Schizophrenia/1. 症狀.md",
     "變態/6. Schizophrenia/0. Overview.md",
     "變態/3. Obsessive-Compulsive-Related Disorders/0. Overview.md",
@@ -117,7 +118,6 @@
     "精神醫學/1. 雙極性情感疾患/3. Rapid cycling.md",
     "變態/未命名.md",
     "變態/專有名詞.md",
-    "認知行為治療/行為活化.md",
-    "認知行為治療/4. 首次會談架構.md"
+    "認知行為治療/行為活化.md"
   ]
 }
