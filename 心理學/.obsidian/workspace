@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
+            "file": "精神醫學/思覺失調/0. Overview.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
+            "file": "精神醫學/思覺失調/0. Overview.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
+                "file": "精神醫學/思覺失調/0. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0466c8626a7a146",
+  "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/思覺失調/0. Overview.md",
+    "精神醫學/思覺失調/歷史.md",
     "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
     "精神醫學/1. 雙極性情感疾患/1. 流行病學.md",
     "精神醫學/1. 雙極性情感疾患/0. Overview.md",
@@ -116,8 +118,6 @@
     "變態/6. Schizophrenia/2. Criteria.md",
     "變態/6. Schizophrenia/1. 症狀.md",
     "變態/6. Schizophrenia/0. Overview.md",
-    "變態/3. Obsessive-Compulsive-Related Disorders/0. Overview.md",
-    "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
-    "變態/4. Trauma-Related Disorders/0. Overview.md"
+    "變態/3. Obsessive-Compulsive-Related Disorders/0. Overview.md"
   ]
 }
