@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/6. Schizophrenia/2. Criteria.md",
+            "file": "精神醫學/2. 思覺失調/3. 因子.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/6. Schizophrenia/2. Criteria.md",
+            "file": "精神醫學/2. 思覺失調/3. 因子.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/6. Schizophrenia/2. Criteria.md",
+                "file": "精神醫學/2. 思覺失調/3. 因子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/2. 思覺失調/3. 因子.md",
     "變態/6. Schizophrenia/2. Criteria.md",
-    "變態/6. Schizophrenia/0. Overview.md",
-    "變態/6. Schizophrenia/1. 症狀.md",
-    "精神醫學/2. 思覺失調/1. 病程.md",
-    "精神醫學/2. 思覺失調/0. 症狀補充.md",
-    "精神醫學/2. 思覺失調/歷史.md",
+    "精神醫學/2. 思覺失調/2. 相關疾患.md",
     "精神醫學/一些定義.md",
-    "精神醫學/0. 診斷分類.md",
-    "精神醫學/1. 雙極性情感疾患/3. Rapid cycling.md",
-    "精神醫學/1. 雙極性情感疾患/2. 病徵.md"
+    "精神醫學/2. 思覺失調/0. 症狀補充.md",
+    "精神醫學/2. 思覺失調/1. 病程.md",
+    "變態/6. Schizophrenia/1. 症狀.md",
+    "變態/6. Schizophrenia/0. Overview.md",
+    "精神醫學/2. 思覺失調/歷史.md",
+    "精神醫學/0. 診斷分類.md"
   ]
 }
