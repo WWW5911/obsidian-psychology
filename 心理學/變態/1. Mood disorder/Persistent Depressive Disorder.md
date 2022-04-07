@@ -1,5 +1,5 @@
 ---
-aliases: [PDD, Dystymia, PDD Criteria]
+aliases: [PDD, Dystymia, Persistent Depressive Disorder Criteria]
 ---
 
 #### Persistent Depressive Disorder (PDD, Dystymia)
