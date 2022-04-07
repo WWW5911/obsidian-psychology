@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/6. Schizophrenia/3. 病因學.md",
+            "file": "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/6. Schizophrenia/3. 病因學.md",
+            "file": "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/6. Schizophrenia/3. 病因學.md",
+                "file": "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
     "變態/6. Schizophrenia/3. 病因學.md",
     "變態/6. Schizophrenia/2. Criteria.md",
     "精神醫學/2. 思覺失調/3. 病因.md",
@@ -117,7 +118,6 @@
     "NeurotransmittersDopamine Theory.md",
     "精神醫學/2. 思覺失調/2. 相關疾患.md",
     "精神醫學/2. 思覺失調/1. 病程.md",
-    "精神醫學/一些定義.md",
-    "精神醫學/2. 思覺失調/0. 症狀補充.md"
+    "精神醫學/一些定義.md"
   ]
 }
