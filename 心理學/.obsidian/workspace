@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
+            "file": "精神醫學/3. 憂鬱症與相關疾患/1. 病因.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
+            "file": "精神醫學/3. 憂鬱症與相關疾患/1. 病因.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
+                "file": "精神醫學/3. 憂鬱症與相關疾患/1. 病因.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/3. 憂鬱症與相關疾患/1. 病因.md",
+    "變態/1. Mood disorder/3. 病因學 (生理).md",
+    "變態/1. Mood disorder/2. 病因學 (心理).md",
+    "變態/1. Mood disorder/1. Depression 的研究.md",
+    "精神醫學/3. 憂鬱症與相關疾患/Depression 定義.md",
     "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
-    "精神醫學/3. 憂鬱症與相關疾患/1. Depression.md",
     "變態/6. Schizophrenia/3. 病因學.md",
     "變態/6. Schizophrenia/2. Criteria.md",
     "精神醫學/2. 思覺失調/3. 病因.md",
-    "精神醫學/2. 思覺失調/4. 治療.md",
-    "性格/精神分析/1. 概述.md",
-    "NeurotransmittersDopamine Theory.md",
-    "精神醫學/2. 思覺失調/2. 相關疾患.md",
-    "精神醫學/2. 思覺失調/1. 病程.md"
+    "精神醫學/2. 思覺失調/4. 治療.md"
   ]
 }
