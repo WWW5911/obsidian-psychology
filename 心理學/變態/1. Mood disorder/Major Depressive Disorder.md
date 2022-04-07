@@ -1,5 +1,5 @@
 ---
-aliases: [MDD, Major Depressive]
+aliases: [MDD, Major Depressive, Major Depressive Disorder Criteria]
 ---
 
 #### Major Depressive Disorder (MDD)
@@ -19,6 +19,7 @@ aliases: [MDD, Major Depressive]
 	- 持續兩周以上
 - 症狀是比經歷 significant loss 時的反應更加嚴重
 	- significant loss 如：財物損失等
+	
 - ##### 症狀通常會隨著時間而減少
 	- 也就是說，其實這個能自己好
 	- 也可使用吃藥來加速過程
