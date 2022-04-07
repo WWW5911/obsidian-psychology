@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/3. 憂鬱症與相關疾患/4. 其他相關症狀.md",
+            "file": "精神醫學/3. 憂鬱症與相關疾患/5. 特殊族群.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/3. 憂鬱症與相關疾患/4. 其他相關症狀.md",
+            "file": "精神醫學/3. 憂鬱症與相關疾患/5. 特殊族群.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/3. 憂鬱症與相關疾患/4. 其他相關症狀.md",
+                "file": "精神醫學/3. 憂鬱症與相關疾患/5. 特殊族群.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,8 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "精神醫學/3. 憂鬱症與相關疾患/4. 其他相關症狀.md",
+    "精神醫學/3. 憂鬱症與相關疾患/5. 特殊族群.md",
+    "精神醫學/3. 憂鬱症與相關疾患/4. 相關症狀診斷.md",
     "精神醫學/3. 憂鬱症與相關疾患/3. PDD.md",
     "變態/1. Mood disorder/3. 病理學 (生理).md",
     "變態/1. Mood disorder/Major Depressive Disorder.md",
@@ -117,7 +118,6 @@
     "精神醫學/3. 憂鬱症與相關疾患/Depression 定義.md",
     "變態/1. Mood disorder/Mania.md",
     "精神醫學/3. 憂鬱症與相關疾患/2. MDD.md",
-    "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
-    "精神醫學/1. 雙極性情感疾患/0. Overview.md"
+    "精神醫學/1. 雙極性情感疾患/2. 病徵.md"
   ]
 }
