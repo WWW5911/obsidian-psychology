@@ -1,0 +1,24 @@
+##### Alcohol Use Disorder
+- “依賴”或上癮
+	- 產生耐受或退縮的人
+- Alcohol withdrawal
+	- Muscle tremors, elevated pulse脈搏升高, blood pressure, and temperature
+	- Delirium tremens 震顫性譫妄
+		- 無法認知現在的資訊
+			- > 如自己在哪、現在幾點、沒有時間感
+		- 血液中的酒精突然下降時罕見的戒斷症狀
+		- Delirium, tremulous, hallucinations (主要視幻覺,可能觸幻覺)
+- Associated with other drug use
+	- 80～50％的人也吸煙
+- Poly-drug abuse
+	- 許多使用者濫用多種物質
+		- 如：香煙、可卡因、大麻
+##### 患病率
+- 在大學年齡的成年人中飲酒尤其頻繁
+	- 39.4% report binge drinking
+		- 5 drinks in a short period of time
+	- 12.5% report heavy-use drinking
+		- 5 drinks on the same 
+		- occasion 5 or more times in a 30-day period
+- 男性比女性常見
+	- 這種性別差異有縮小的趨勢
