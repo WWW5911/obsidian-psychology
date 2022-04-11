@@ -6,7 +6,7 @@ Agoraphobia 是來自希臘文的廣場，為廣場恐慌症
 - 也會怕自己失能 (無法說話、失禁等)
 - 會造成很嚴重的損害
 	- 無法離開家、或帶著很大的苦惱離開家
-- 有一半的Agoraphobia個案也經歷過 [[Panic Disorder|Panic Attacks]]
+- 有一半的Agoraphobia個案也經歷過 [[變態/2. Anxiety Disorders/Panic Disorder|Panic Attacks]]
 
 #### DSM-5 Criteria
 - Disproportionate and marked fear or anxiety about ==at least 2 situations== where it would be difficult to escape or receive help in the event of incapacitation, embarrassing symptoms, or panic-like symptoms

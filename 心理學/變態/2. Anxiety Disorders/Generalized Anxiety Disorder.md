@@ -15,7 +15,7 @@ aliases: [GAD]
 - 通常開始於青春期
 - 很容易共病
 	- 50%的個案會跟其他焦慮症共病 
-		- 如 [[Panic Disorder]]、[[變態/2. Anxiety Disorders/Social Anxiety Disorder]]
+		- 如 [[變態/2. Anxiety Disorders/Panic Disorder]]、[[變態/2. Anxiety Disorders/Social Anxiety Disorder]]
 	- 75%的個案也會符合其他心理疾患的診斷
 	- 60%會有 [[1. Depression 的研究|Depression]]
 	- Obsessive compulsive disorder也很常見
