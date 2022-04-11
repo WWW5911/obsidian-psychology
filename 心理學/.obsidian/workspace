@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/3.5 強迫相關疾患/OCD.md",
+            "file": "精神醫學/4. 焦慮疾患/Specific Phobia.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/3.5 強迫相關疾患/OCD.md",
+            "file": "精神醫學/4. 焦慮疾患/Specific Phobia.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/3.5 強迫相關疾患/OCD.md",
+                "file": "精神醫學/4. 焦慮疾患/Specific Phobia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "精神醫學/3.5 強迫相關疾患/OCD.md",
-    "精神醫學/焦慮疾患/Generalized Anxiety Disorder.md",
-    "精神醫學/焦慮疾患/Agoraphobia.md",
-    "精神醫學/焦慮疾患/Panic disorder.md",
-    "精神醫學/焦慮疾患/Selective Mutism.md",
-    "精神醫學/焦慮疾患/Social Anxiety Disorder.md",
-    "精神醫學/焦慮疾患/Separation Anxiety Disorder.md",
-    "精神醫學/焦慮疾患/Specific Phobia.md",
-    "精神醫學/焦慮疾患/0. 焦慮症狀.md",
-    "變態/7. Substance Use Disorders/Alcohol Use Disorder.md"
+    "精神醫學/4. 焦慮疾患/Specific Phobia.md",
+    "精神醫學/4. 焦慮疾患/Social Anxiety Disorder.md",
+    "精神醫學/4. 焦慮疾患/Separation Anxiety Disorder.md",
+    "精神醫學/4. 焦慮疾患/Selective Mutism.md",
+    "精神醫學/4. 焦慮疾患/Panic disorder.md",
+    "精神醫學/4. 焦慮疾患/Generalized Anxiety Disorder.md",
+    "精神醫學/4. 焦慮疾患/Agoraphobia.md",
+    "精神醫學/4. 焦慮疾患/0. 焦慮症狀.md",
+    "精神醫學/3. 憂鬱症與相關疾患/0. Overview.md",
+    "精神醫學/5 強迫相關疾患/OCD.md"
   ]
 }
