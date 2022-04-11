@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/焦慮疾患/Separation Anxiety Disorder.md",
+            "file": "精神醫學/焦慮疾患/Selective Mutism.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/焦慮疾患/Separation Anxiety Disorder.md",
+            "file": "精神醫學/焦慮疾患/Selective Mutism.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/焦慮疾患/Separation Anxiety Disorder.md",
+                "file": "精神醫學/焦慮疾患/Selective Mutism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/焦慮疾患/Selective Mutism.md",
     "精神醫學/焦慮疾患/Separation Anxiety Disorder.md",
     "精神醫學/焦慮疾患/0. 焦慮症狀.md",
     "變態/7. Substance Use Disorders/Alcohol Use Disorder.md",
@@ -117,7 +118,6 @@
     "變態/1. Mood Disorders/0. Overview.md",
     "變態/6. Schizophrenia/5. 心理治療.md",
     "變態/6. Schizophrenia/4. 藥物治療.md",
-    "精神醫學/2. 思覺失調/4. 治療.md",
-    "變態/6. Schizophrenia/0. Overview.md"
+    "精神醫學/2. 思覺失調/4. 治療.md"
   ]
 }
