@@ -1,4 +1,4 @@
-##### Disorder
+### Sexual Interest, Desire, and Arousal
 - Female
 	- sexual interest/arousal disorder
 		- 對於==性興趣==上，在這些方面具有持續性的缺陷
@@ -36,7 +36,9 @@
 	- 在至少75％的性的場合，發生以下至少一項狀況
 	1. Inability to attain an erection
 	2. Inability to maintain an erection for completion of sexual activity
-		- 無法維持勃起來完成ㄒㄧㄥ
+		- 無法維持勃起來完成性行為
 	3. Marked decrease in erectile rigidity interferes with penetration or pleasure
 		- 勃起的強度明顯降低會影響性行為或愉悅感
+
+
 
