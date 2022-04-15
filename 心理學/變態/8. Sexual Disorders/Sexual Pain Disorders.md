@@ -22,3 +22,4 @@
 		- 對疼痛或性交的明顯恐懼或焦慮
 	4. Marked tensing of the pelvic floor muscles during attempted vaginal penetration
 		- 試圖性交期間骨盆底肌肉明顯繃緊
+
