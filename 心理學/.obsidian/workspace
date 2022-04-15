@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/8. Sexual Disorders/Paraphilic Disorders.md",
+            "file": "變態/8. Sexual Disorders/1. Sexual Dysfunction 病理學.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/8. Sexual Disorders/Paraphilic Disorders.md",
+            "file": "變態/8. Sexual Disorders/1. Sexual Dysfunction 病理學.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "homewor",
+                "query": "MEGAN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/8. Sexual Disorders/Paraphilic Disorders.md",
+                "file": "變態/8. Sexual Disorders/1. Sexual Dysfunction 病理學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,13 +110,13 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "變態/8. Sexual Disorders/Paraphilic Disorders.md",
-    "變態/8. Sexual Disorders/2. Paraphilic Disorders 病理學.md",
-    "變態/8. Sexual Disorders/0. Overview.md",
-    "變態/8. Sexual Disorders/Rape.md",
-    "變態/8. Sexual Disorders/3. 對戀童癖的影響：兒童性虐待後的結果.md",
     "變態/8. Sexual Disorders/1. Sexual Dysfunction 病理學.md",
     "變態/8. Sexual Disorders/Orgasmic Disorders.md",
+    "變態/8. Sexual Disorders/Paraphilic Disorders.md",
+    "變態/8. Sexual Disorders/Rape.md",
+    "變態/8. Sexual Disorders/2. Paraphilic Disorders 病理學.md",
+    "變態/8. Sexual Disorders/0. Overview.md",
+    "變態/8. Sexual Disorders/3. 對戀童癖的影響：兒童性虐待後的結果.md",
     "變態/8. Sexual Disorders/Etiology of Sexual Dysfunction.md",
     "變態/8. Sexual Disorders/Sexual Pain Disorders.md",
     "變態/8. Sexual Disorders/Sexual Interest, Desire, and Arousal.md"
