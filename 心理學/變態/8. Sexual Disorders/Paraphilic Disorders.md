@@ -15,6 +15,12 @@
 DSM-5 Diagnosis | Object of Sexual Attraction
 --|--
 Fetishistic disorder | 無生命的物體或身體的非生殖器官
+Pedohebephilic Disorder
+Voyeuristic Disorder
+Exhibitionistic Disorder
+Frotteuristic Disorder | 
+
+很少會單獨存在，非常常共病
 
 #### Fetishistic Disorder 戀物症
 - 依賴無生命的物體或身體的非生殖器官進行性喚起
@@ -38,5 +44,50 @@ Fetishistic disorder | 無生命的物體或身體的非生殖器官
 - Victims usually known to pedophile
 	- 大多數戀童癖不涉及性行為以外的暴力
 - 與涉及成人的刺激相比，戀童癖者對涉及兒童的性刺激表現出更多的喚醒
-- Pedohebephilic disorder, incest subtype
-	- 
+##### Pedohebephilic disorder, incest subtype 戀童癖，亂倫亞型
+- 禁止結婚的近親（如弟弟、妹妹）之間的性關係
+- 通常ㄈ
+
+
+##### DSM-5 Criteria
+- For at least 6 months, recurrent and intense, sexually arousing fantasies, urges, or behaviours involving sexual contact with a prepubescent child
+	- 至少持續6個月，涉及與青春期前兒童發生性接觸 的反復和強烈的性幻想
+- Person has acted on these urges or the urges and fantasies cause marked distress or interpersonal problems
+	- 這些衝動和幻想導致明顯的困擾或人際問題
+- Person is at least 16 years old and 5 years older than the child
+	- 患者超過16歲，比受害者高5歲以上
+
+#### Voyeuristic Disorder 窺視症
+- 通過觀看來獲得性滿足的強烈且反復出現的慾望
+	- Unsuspecting others in a state of undress
+	- Having sexual relations
+	- 偷窺別人換衣服、性行為
+- 常見於男性
+- May not find it particularly exciting to watch someone undress for his benefit
+	- 受害者不是為了他的利益而做這件事
+	- The element of risk, and the threat of discovery, is important
+		- 興奮來自於受害者不知情; 冒險因素很重要
+
+##### DSM-5 Criteria
+- For at least 6 months, recurrent, intense, and sexually arousing fantasies, urges, or behaviours involving showing one’s genitals to an unsuspecting person
+	- 至少6個月， 透過觀察裸體， 脫衣或從事性活動之毫無戒心的其他人，產生反覆和強烈的性喚起幻想，衝動或行為
+- Person has acted on these urges to a nonconsenting person, or the urges and fantasies cause clinically significant distress or interpersonal problems
+	- 對未經同意的人採取了這些衝動，或衝動和幻想導致臨床上顯著的痛苦或人際關係問題
+	
+#### Exhibitionistic Disorder 暴露
+- 將自己的生殖器暴露給不情願的陌生人
+	- 很少嘗試與陌生人進行其他接觸
+	- 通常會想要讓觀察者感到震驚或尷尬
+- Many exhibitionists masturbate during the exposure
+##### DSM-5 Criteria
+- For at least 6 months, recurrent, intense, and sexually arousing fantasies, urges, or behaviours involving showing one’s genitals to an unsuspecting person
+	- 至少6個月， 透過對無預期的人暴露性器官的幻想、慾望或行為，以得到重複且強烈的性興奮
+- Person has acted on these urges to a nonconsenting person, or the urges and fantasies cause clinically significant distress or interpersonal problems
+	- 人對未經同意的人採取了這些衝動，或衝動和幻想導致臨床上顯著的痛苦或人際關係問題
+
+#### Frotteuristic Disorder 觸摸癖
+- 對毫無戒心的人進行性取向的觸摸
+	- Rubbing genitals against a person’s body or fondling a person’s genitals
+		- 在人體上擦生殖器或撫摸自己的生殖器
+	- 經常發生在人多的地方
+##### DSM-5 Criteria
