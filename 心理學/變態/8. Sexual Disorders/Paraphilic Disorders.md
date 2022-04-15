@@ -18,7 +18,9 @@ Fetishistic disorder | 無生命的物體或身體的非生殖器官
 Pedohebephilic Disorder
 Voyeuristic Disorder
 Exhibitionistic Disorder
-Frotteuristic Disorder | 
+Frotteuristic Disorder 
+Sexual Sadism and Masochism Disorders 
+
 
 很少會單獨存在，非常常共病
 
@@ -46,8 +48,12 @@ Frotteuristic Disorder |
 - 與涉及成人的刺激相比，戀童癖者對涉及兒童的性刺激表現出更多的喚醒
 ##### Pedohebephilic disorder, incest subtype 戀童癖，亂倫亞型
 - 禁止結婚的近親（如弟弟、妹妹）之間的性關係
-- 通常ㄈ
-
+- 最常見是發生在兄弟姐妹間
+	- 第二常見是父親對女兒
+		- 被認為更病態
+- 人類社會幾乎都將亂倫視為禁忌
+	- 基因的適應性
+		- 更容易產生負向的生物變異
 
 ##### DSM-5 Criteria
 - For at least 6 months, recurrent and intense, sexually arousing fantasies, urges, or behaviours involving sexual contact with a prepubescent child
@@ -91,3 +97,28 @@ Frotteuristic Disorder |
 		- 在人體上擦生殖器或撫摸自己的生殖器
 	- 經常發生在人多的地方
 ##### DSM-5 Criteria
+- For at least 6 months, recurrent and intense and sexually arousing fantasies, urges, or behaviours involving touching or rubbing against a nonconsenting person
+	- 至少6個月
+	- 反復出現強烈的性喚起幻想、衝動或涉及觸摸或摩擦未經同意的人的行為
+- Person has acted on these urges with a nonconsenting person, or the urges and fantasies cause clinically significant distress or problems
+	- 該人在未經同意的情況下對這些衝動採取了行動，或者這些衝動和幻想導致臨床上顯著的痛苦或問題
+#### Sexual Sadism and Masochism Disorders
+- Sexual sadism disorder 性虐待障礙
+	- 對他人造成痛苦或心理痛苦（例如羞辱）
+- Sexual masochism disorder 性自虐障礙
+	- 對遭受痛苦或屈辱有性興奮
+- 大多數虐待狂與受虐狂建立關係以獲得相互的性滿足
+- 關於納入 DSM-5 的辯論
+	- 這些疾病變得越來越普遍
+	- 通常不會造成損害或痛苦
+##### DSM-5 Criteria
+- Sexual Sadism
+	- For at least 6 months, recurrent, intense, and sexually arousing fantasies, urges, or behaviours involving the physical or psychological suffering of another person
+		- 至少 6 個月內，反復出現、強烈和性喚起的幻想、衝動或行為，涉及他人的身體或心理痛苦
+	- Causes clinically significant distress or impairment in functioning or the person has acted on these urges with a nonconsenting person
+		- 導致臨床上顯著的痛苦或功能障礙，或者該人已在未經同意的情況下對這些衝動採取了行動
+- Sexual Masochism Disorder
+	- For at least 6 months, recurrent, intense, and sexually arousing fantasies, urges, or behaviours involving the act of being humiliated, beaten, bound, or made to suffer
+		- 至少 6 個月，反復出現、強烈和性喚起的幻想、衝動或行為，包括被羞辱、毆打、捆綁或受苦的行為
+	- Causes marked distress or impairment in functioning
+		- 導致明顯的痛苦或功能障礙
