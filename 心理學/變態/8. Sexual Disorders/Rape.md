@@ -8,3 +8,6 @@
 - Treatment of rapists 強暴犯的治療
 	- Empathy training, anger management 同理心訓練、憤怒管理
 	- Biological agents to reduce male hormones 使用生物性葯劑來減少男性賀爾蒙
+
+##### MEGAN'S LAW
+性罪犯出獄後，也要被紀錄在冊去做管理與防備
