@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/8. Sexual Disorders/Sexual Pain Disorders.md",
+            "file": "變態/8. Sexual Disorders/1. 病理學.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/8. Sexual Disorders/Sexual Pain Disorders.md",
-            "mode": "preview"
+            "file": "變態/8. Sexual Disorders/1. 病理學.md",
+            "mode": "source"
           }
         },
         "group": "763874c5e58d2235"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/8. Sexual Disorders/Sexual Pain Disorders.md",
+                "file": "變態/8. Sexual Disorders/1. 病理學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0466c8626a7a146",
+  "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "變態/8. Sexual Disorders/1. 病理學.md",
     "變態/8. Sexual Disorders/Sexual Pain Disorders.md",
     "變態/8. Sexual Disorders/Orgasmic Disorders.md",
     "變態/8. Sexual Disorders/Sexual Interest, Desire, and Arousal.md",
@@ -117,7 +118,6 @@
     "變態/7. Substance Use Disorders/Alcohol Use Disorder.md",
     "變態/7. Substance Use Disorders/0. Overview.md",
     "變態/7. Substance Use Disorders/1. DSM-5 Criteria.md",
-    "認知行為治療/z未整理.md",
-    "認知行為治療/5. 第二次及之後的會談結構與形式.md"
+    "認知行為治療/z未整理.md"
   ]
 }
