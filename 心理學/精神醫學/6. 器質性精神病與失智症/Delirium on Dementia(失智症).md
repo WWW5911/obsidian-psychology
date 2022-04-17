@@ -12,6 +12,7 @@
 - 記憶障礙
 - 人,事,時間,空間定向力變差
 - 判斷力變差或波動不穩
+
 ##### 其他描述 Delirium 的症狀
 - Sundowning Syndrome
 - Acute confusionalstate 
@@ -58,6 +59,8 @@
 	- sleep deprivation
 2. Acute / Subacute/ Chronic
 
+##### 流行病學
+
 ##### 病因
 ==完全沒有心理方面的問題，主要是報給內外科醫生==
 - 藥物
@@ -89,4 +92,18 @@
 	- 高血壓腦病
 	- 精神疾病
 - Systemic organ failure
+	- 心力衰竭
+	- Hematologic 血液學：血小板增多症、嗜酸性粒細胞增多症、白血病母細胞危象、紅細胞增多症
+	- 肝功能衰竭：急性、慢性
+	- 肺部疾病，包括高碳酸血症和低氧血症
+	- 腎功能衰竭：急性、慢性
+- 感染
+	- 敗血症
+	- 全身感染；發燒相關譫妄
+- Physical disorders
+	- Burns
+	- Electrocution
+	- Hyperthermia
+	- 低溫
+	- 外傷：全身炎症反應綜合徵、頭部損傷*、脂肪栓塞
 - 
