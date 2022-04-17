@@ -7,8 +7,11 @@
         "id": "5cff2c465758d144",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "精神醫學/6. 器質性精神病與失智症/Major and minor Neurocognitive Disorders (NCD).md",
+            "mode": "source"
+          }
         },
         "group": "763874c5e58d2235"
       },
@@ -16,8 +19,11 @@
         "id": "a0466c8626a7a146",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "精神醫學/6. 器質性精神病與失智症/Major and minor Neurocognitive Disorders (NCD).md",
+            "mode": "preview"
+          }
         },
         "group": "763874c5e58d2235"
       }
@@ -75,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "精神醫學/6. 器質性精神病與失智症/Major and minor Neurocognitive Disorders (NCD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
-    "精神醫學/6. 器質性精神病與失智症/失智、Delirium.md",
-    "精神醫學/6. 器質性精神病與失智症/0. 老人醫學.md",
+    "精神醫學/6. 器質性精神病與失智症/Major and minor Neurocognitive Disorders (NCD).md",
+    "精神醫學/6. 器質性精神病與失智症/Chronic organic mental disorders.md",
     "精神醫學/6. 器質性精神病與失智症/Delirium on Dementia(失智症).md",
     "精神醫學/6. 器質性精神病與失智症/Korsakoff psychosis (syndrome).md",
+    "精神醫學/6. 器質性精神病與失智症/0. 老人醫學.md",
+    "精神醫學/6. 器質性精神病與失智症/艦別診斷.png",
+    "性格/精神分析/1. 概述.md",
+    "精神醫學/6. 器質性精神病與失智症/失智、Delirium.md",
     "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
-    "變態/3. Obsessive-Compulsive-Related Disorders/2. 治療.md",
-    "變態/3. Obsessive-Compulsive-Related Disorders/Hoarding Disorder.md",
-    "變態/3. Obsessive-Compulsive-Related Disorders/Obsessive-Compulsive Disorder.md",
-    "變態/3. Obsessive-Compulsive-Related Disorders/0. Overview.md",
-    "變態/3. Obsessive-Compulsive-Related Disorders/Body Dysmorphic Disorder.md"
+    "變態/3. Obsessive-Compulsive-Related Disorders/2. 治療.md"
   ]
 }
