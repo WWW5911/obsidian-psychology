@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
+            "file": "精神醫學/6. 器質性精神病與失智症/Delirium on Dementia(失智症).md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
-            "mode": "preview"
+            "file": "精神醫學/6. 器質性精神病與失智症/Delirium on Dementia(失智症).md",
+            "mode": "source"
           }
         },
         "group": "763874c5e58d2235"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
+                "file": "精神醫學/6. 器質性精神病與失智症/Delirium on Dementia(失智症).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0466c8626a7a146",
+  "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/6. 器質性精神病與失智症/Delirium on Dementia(失智症).md",
+    "精神醫學/6. 器質性精神病與失智症/0. 老人醫學.md",
     "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
     "變態/3. Obsessive-Compulsive-Related Disorders/2. 治療.md",
     "變態/3. Obsessive-Compulsive-Related Disorders/Hoarding Disorder.md",
@@ -116,8 +118,6 @@
     "變態/3. Obsessive-Compulsive-Related Disorders/0. Overview.md",
     "變態/3. Obsessive-Compulsive-Related Disorders/Body Dysmorphic Disorder.md",
     "精神醫學/5 強迫相關疾患/OCD.md",
-    "精神醫學/0. 診斷分類.md",
-    "精神醫學/5 強迫相關疾患/相關疾患.md",
-    "變態/7. Substance Use Disorders/物質總整.md"
+    "精神醫學/0. 診斷分類.md"
   ]
 }
