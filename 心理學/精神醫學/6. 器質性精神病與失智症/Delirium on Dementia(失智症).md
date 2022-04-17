@@ -12,7 +12,7 @@
 - 記憶障礙
 - 人,事,時間,空間定向力變差
 - 判斷力變差或波動不穩
-##### 其他描述 Delirium的症狀
+##### 其他描述 Delirium 的症狀
 - Sundowning Syndrome
 - Acute confusionalstate 
 - Acute brain failure
@@ -25,7 +25,7 @@
 -  Paraneoplastic limbic encephalitis 
 -  Acute Organic brain syndrome
 
-##### Criteria inDSM-5
+##### Criteria in DSM-5
 - A. A disturbance in attention and awareness
 	- 注意力和意識障礙
 - B. The disturbance develops over a short period of time (hours to a few days), represents a change from baseline attention and Awareness, fluctuate in severity during the course of the day
@@ -38,4 +38,47 @@
 	- 排除另一種醫療狀況、物質中毒或戒斷的直接生理後果
 
 #####  臨床特徵
-- 
+- 意識和認知水平急劇下降，注意力特別受損
+- Delirium 的特點是短期的混亂和認知的改變
+##### 需要積極處理的原因
+- Life threatening, yet potentially reversible disorder of the central nervous system (CNS)and physical condition
+	- 危及生命但可能可逆的中樞神經系統 (CNS) 疾病和身體狀況
+- 通常涉及知覺障礙、異常精神運動活動和睡眠週期障礙
+- 住院人群患病率高，識別度差，死亡率高
+- Delirium 使預後和醫療保健提供顯著複雜化
+
+##### 處理鑑別方向
+1. 一般醫療狀況
+	- 感染
+2. substance induced 
+	- cocaine、阿片類藥物、苯環利定 (PCP)
+1. 多種原因
+	- 糖尿病、高血壓和頭部外傷
+1. delirium not otherwise specified 
+	- sleep deprivation
+2. Acute / Subacute/ Chronic
+
+##### 病因
+==完全沒有心理方面的問題，主要是報給內外科醫生==
+- 藥物
+	- 處方藥
+		- 如阿片類藥物、鎮靜催眠藥、抗精神病藥、鋰、骨骼肌鬆弛劑、多種藥物
+	- 非處方藥
+		- 如 antihistamines
+	- 濫用藥物
+		- （如乙醇、海洛因、致幻劑、處方藥的非藥物使用
+	- 戒斷狀態（如乙醇、苯二氮卓類藥物）
+	- 藥物副作用（例如，丙戊酸引起的高氨血症、喹諾酮類藥物引起的混亂、血清素綜合徵）
+- 中毒 Poisons
+	- 非典型醇（乙二醇、甲醇）
+	- 吸入毒素（一氧化碳、氰化物、硫化氫）
+	- 植物來源的（例如，吉姆森雜草、丹參）
+- Metabolic derangements 代謝紊亂
+	- 電解質紊亂（升高或降低）：鈉、鈣、鎂、磷酸鹽
+	- 內分泌紊亂（抑製或增加）：甲狀腺、甲狀旁腺、胰腺、垂體、腎上腺
+	- 高碳酸血症
+	- 高血糖和低血糖
+	- 高滲和低滲狀態
+	- 低氧血症
+	- 先天性代謝異常：卟啉症、威爾遜病等
+	- 營養：Wernicke 腦病、維生素 B12 缺乏症、可能缺乏葉酸和菸酸
