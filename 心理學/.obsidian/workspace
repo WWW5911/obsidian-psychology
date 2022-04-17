@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/7. Substance Use Disorders/物質總整.md",
+            "file": "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "變態/7. Substance Use Disorders/物質總整.md",
+            "file": "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "變態/7. Substance Use Disorders/物質總整.md",
+                "file": "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cff2c465758d144",
+  "active": "a0466c8626a7a146",
   "lastOpenFiles": [
-    "變態/7. Substance Use Disorders/物質總整.md",
-    "變態/6. Schizophrenia/1. 症狀.md",
-    "變態/6. Schizophrenia/2. Criteria.md",
-    "變態/8. Sexual Disorders/Rape.md",
-    "變態/8. Sexual Disorders/1. Sexual Dysfunction 病理學.md",
-    "變態/8. Sexual Disorders/Orgasmic Disorders.md",
-    "變態/8. Sexual Disorders/Paraphilic Disorders.md",
-    "變態/8. Sexual Disorders/2. Paraphilic Disorders 病理學.md",
-    "變態/8. Sexual Disorders/0. Overview.md",
-    "變態/8. Sexual Disorders/3. 對戀童癖的影響：兒童性虐待後的結果.md"
+    "變態/3. Obsessive-Compulsive-Related Disorders/1. 相關研究 (流行病學).md",
+    "變態/3. Obsessive-Compulsive-Related Disorders/2. 治療.md",
+    "變態/3. Obsessive-Compulsive-Related Disorders/Hoarding Disorder.md",
+    "變態/3. Obsessive-Compulsive-Related Disorders/Obsessive-Compulsive Disorder.md",
+    "變態/3. Obsessive-Compulsive-Related Disorders/0. Overview.md",
+    "變態/3. Obsessive-Compulsive-Related Disorders/Body Dysmorphic Disorder.md",
+    "精神醫學/5 強迫相關疾患/OCD.md",
+    "精神醫學/0. 診斷分類.md",
+    "精神醫學/5 強迫相關疾患/相關疾患.md",
+    "變態/7. Substance Use Disorders/物質總整.md"
   ]
 }
