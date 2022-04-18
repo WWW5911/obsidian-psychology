@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/4. 焦慮疾患/Social Anxiety Disorder.md",
+            "file": "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "精神醫學/4. 焦慮疾患/Social Anxiety Disorder.md",
+            "file": "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
             "mode": "source"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "精神醫學/4. 焦慮疾患/Social Anxiety Disorder.md",
+                "file": "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "精神醫學/1. 雙極性情感疾患/2. 病徵.md",
+    "精神醫學/1. 雙極性情感疾患/3. Rapid cycling.md",
+    "精神醫學/4. 焦慮疾患/Generalized Anxiety Disorder.md",
+    "精神醫學/4. 焦慮疾患/Panic disorder.md",
+    "精神醫學/4. 焦慮疾患/Selective Mutism.md",
+    "精神醫學/4. 焦慮疾患/Separation Anxiety Disorder.md",
     "精神醫學/4. 焦慮疾患/Social Anxiety Disorder.md",
     "精神醫學/4. 焦慮疾患/Agoraphobia.md",
     "精神醫學/4. 焦慮疾患/0. 焦慮症狀.md",
-    "精神醫學/5 強迫相關疾患/OCD.md",
-    "精神醫學/5 強迫相關疾患/相關疾患.md",
-    "精神醫學/6. 器質性精神病與失智症/失智症比較.png",
-    "精神醫學/6. 器質性精神病與失智症/認知障礙診斷標準.png",
-    "精神醫學/6. 器質性精神病與失智症/Dementias.md",
-    "精神醫學/6. 器質性精神病與失智症/Delirium on Dementia.md",
-    "精神醫學/6. 器質性精神病與失智症/Major and minor Neurocognitive Disorders (NCD).md"
+    "精神醫學/5 強迫相關疾患/OCD.md"
   ]
 }
