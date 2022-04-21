@@ -15,11 +15,11 @@
 DSM-5 Diagnosis | Object of Sexual Attraction
 --|--
 Fetishistic disorder | 無生命的物體或身體的非生殖器官
-Pedohebephilic Disorder
-Voyeuristic Disorder
-Exhibitionistic Disorder
-Frotteuristic Disorder 
-Sexual Sadism and Masochism Disorders 
+Pedohebephilic Disorder | 戀童
+Voyeuristic Disorder| 窺視症
+Exhibitionistic Disorder | 暴露
+Frotteuristic Disorder | 對毫無戒心的人進行性取向的觸摸
+Sexual Sadism and Masochism Disorders | 性虐待/被虐
 
 
 很少會單獨存在，非常常共病
@@ -102,7 +102,7 @@ Sexual Sadism and Masochism Disorders
 	- 反復出現強烈的性喚起幻想、衝動或涉及觸摸或摩擦未經同意的人的行為
 - Person has acted on these urges with a nonconsenting person, or the urges and fantasies cause clinically significant distress or problems
 	- 該人在未經同意的情況下對這些衝動採取了行動，或者這些衝動和幻想導致臨床上顯著的痛苦或問題
-#### Sexual Sadism and Masochism Disorders
+#### Sexual Sadism and Masochism Disorders 性虐待/被虐
 - Sexual sadism disorder 性虐待障礙
 	- 對他人造成痛苦或心理痛苦（例如羞辱）
 - Sexual masochism disorder 性自虐障礙
