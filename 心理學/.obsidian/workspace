@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "助人技巧/專注傾聽.md",
-            "mode": "preview"
+            "file": "認知行為治療/自禾改變.md",
+            "mode": "source"
           }
         },
         "group": "763874c5e58d2235"
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "助人技巧/專注傾聽.md",
-            "mode": "source"
+            "file": "認知行為治療/自禾改變.md",
+            "mode": "preview"
           }
         },
         "group": "763874c5e58d2235"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "助人技巧/專注傾聽.md",
+                "file": "認知行為治療/自禾改變.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "5cff2c465758d144",
   "lastOpenFiles": [
+    "認知行為治療/自禾改變.md",
+    "認知行為治療/5. 第二次及之後的會談結構與形式.md",
     "助人技巧/專注傾聽.md",
     "助人技巧/未整理.md",
     "認知行為治療/認知模式.md",
@@ -116,8 +118,6 @@
     "變態/8. Sexual Disorders/Paraphilic Disorders.md",
     "變態/6. Schizophrenia/4. 藥物治療.md",
     "變態/6. Schizophrenia/2. Criteria.md",
-    "變態/6. Schizophrenia/1. 症狀.md",
-    "變態/7. Substance Use Disorders/1. DSM-5 Criteria.md",
-    "變態/7. Substance Use Disorders/物質總整.md"
+    "變態/6. Schizophrenia/1. 症狀.md"
   ]
 }
