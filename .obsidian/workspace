@@ -7,9 +7,10 @@
         "id": "8314e6696640a3ff",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "心理學/精神醫學/6. 器質性精神病與失智症/失智症比較.png"
+            "file": "心理學/未命名 2.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/精神醫學/6. 器質性精神病與失智症/失智症比較.png",
+                "file": "心理學/未命名 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +88,8 @@
   },
   "active": "8314e6696640a3ff",
   "lastOpenFiles": [
-    "心理學/精神醫學/6. 器質性精神病與失智症/失智症比較.png",
     "心理學/未命名 2.md",
+    "心理學/精神醫學/6. 器質性精神病與失智症/失智症比較.png",
     "心理學/認知行為治療/自禾改變＃4.md",
     "心理學/認知行為治療/自禾改變＃3.md",
     "心理學/認知行為治療/自禾改變＃1.md",
