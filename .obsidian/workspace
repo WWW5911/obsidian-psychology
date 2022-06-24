@@ -4,28 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2bff686d0f3bf0b8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "心理學/未命名 2.md",
-            "mode": "source"
-          }
-        },
-        "group": "ca516abb988ab8b7"
-      },
-      {
         "id": "8314e6696640a3ff",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "心理學/未命名 2.md",
-            "mode": "preview"
+            "file": "心理學/精神醫學/6. 器質性精神病與失智症/失智症比較.png"
           }
-        },
-        "group": "ca516abb988ab8b7"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理學/未命名 2.md",
+                "file": "心理學/精神醫學/6. 器質性精神病與失智症/失智症比較.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +87,7 @@
   },
   "active": "8314e6696640a3ff",
   "lastOpenFiles": [
+    "心理學/精神醫學/6. 器質性精神病與失智症/失智症比較.png",
     "心理學/未命名 2.md",
     "心理學/認知行為治療/自禾改變＃4.md",
     "心理學/認知行為治療/自禾改變＃3.md",
@@ -109,7 +96,6 @@
     "心理學/認知行為治療/認知模式.md",
     "心理學/性格/overall.md",
     "心理學/性格/人本心理學/5. 正向關懷.md",
-    "心理學/性格/人本心理學/6. 心理治療.md",
-    "心理學/性格/人本心理學/1. Rogers.md"
+    "心理學/性格/人本心理學/6. 心理治療.md"
   ]
 }
